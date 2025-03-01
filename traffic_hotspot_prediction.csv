@@ -1,0 +1,1001 @@
+Latitude,Longitude,City,State,Date,Time,Severity,Temperature_C,Weather,Visibility_km,Road_Type,Lighting,Speed_Limit_kmh
+40.643696,-74.069726,New York,NY,2024-11-27,09:21:53,Fatal,11.7,Cloudy,2.4,Urban Road,Dusk,59
+40.750218,-74.120769,New York,NY,2024-07-18,18:34:33,Minor,27.2,Clear,1.9,Residential Street,Dusk,46
+40.528819,-73.714758,New York,NY,2024-07-27,19:02:58,Fatal,13.6,Clear,9.8,Highway,Daylight,57
+40.728429,-73.958476,New York,NY,2024-02-09,13:12:29,Minor,13.8,Clear,5.8,Highway,Daylight,64
+40.602333,-73.70302,New York,NY,2024-05-04,14:04:42,Fatal,6.4,Snow,0.2,Residential Street,Dawn,34
+40.602891,-74.129313,New York,NY,2024-07-08,06:00:19,Fatal,-3.2,Clear,9.2,Intersection,Night,64
+40.73129,-73.854922,New York,NY,2024-03-25,20:48:04,Major,34.1,Cloudy,5.6,Highway,Dawn,41
+40.53677,-73.747993,New York,NY,2024-12-08,01:57:56,Major,9.6,Clear,9.8,Intersection,Night,62
+40.596087,-74.055566,New York,NY,2024-09-25,05:49:19,Fatal,13.5,Clear,6.8,Intersection,Daylight,30
+40.74303,-73.980782,New York,NY,2024-03-17,15:30:06,Major,8.7,Cloudy,2.7,Highway,Dusk,68
+40.598421,-73.751336,New York,NY,2024-06-10,20:57:47,Major,21.9,Fog,5.4,Residential Street,Dawn,37
+40.705901,-73.988298,New York,NY,2024-05-29,04:52:41,Major,32.3,Rain,3.2,Highway,Night,35
+40.557837,-74.089513,New York,NY,2024-06-06,21:05:42,Major,-1.4,Rain,9.7,Urban Road,Dusk,51
+40.573798,-73.703574,New York,NY,2024-10-17,08:28:19,Minor,30.7,Cloudy,8.4,Highway,Night,46
+40.536586,-73.896046,New York,NY,2024-05-10,03:13:40,Minor,24.6,Clear,9.4,Residential Street,Daylight,59
+40.515078,-73.820928,New York,NY,2024-10-28,03:17:37,Minor,2.7,Fog,4.3,Intersection,Dusk,42
+40.527603,-73.716077,New York,NY,2024-01-26,07:26:26,Major,13.4,Clear,2.3,Residential Street,Dawn,31
+40.861265,-73.776936,New York,NY,2024-12-13,00:37:13,Fatal,29.7,Snow,5.1,Residential Street,Dusk,45
+40.707618,-73.735881,New York,NY,2024-01-21,10:37:55,Fatal,28.9,Rain,5.8,Residential Street,Daylight,41
+40.675612,-73.89146,New York,NY,2024-10-04,18:21:31,Major,-0.8,Cloudy,1.7,Urban Road,Dawn,36
+40.595683,-73.998442,New York,NY,2024-01-26,01:41:11,Fatal,9.5,Snow,3.6,Residential Street,Night,37
+40.540532,-73.732968,New York,NY,2024-07-25,11:53:29,Major,26.6,Snow,1.6,Urban Road,Daylight,44
+40.5144,-73.81924,New York,NY,2024-10-03,18:56:58,Fatal,-1.2,Clear,5.0,Urban Road,Dusk,49
+40.576553,-73.802959,New York,NY,2024-12-06,19:38:53,Minor,30.4,Fog,9.8,Residential Street,Dusk,70
+40.586777,-73.722939,New York,NY,2024-09-10,03:24:06,Minor,14.5,Clear,9.9,Residential Street,Dawn,67
+40.734769,-74.149536,New York,NY,2024-03-24,02:28:16,Minor,-2.4,Clear,0.2,Intersection,Dawn,69
+40.532289,-73.946843,New York,NY,2024-07-19,07:19:09,Major,34.4,Snow,2.0,Intersection,Daylight,38
+40.726427,-73.883307,New York,NY,2024-04-04,23:26:59,Fatal,26.0,Snow,7.2,Intersection,Dawn,66
+40.563553,-73.999101,New York,NY,2024-07-13,15:34:41,Major,30.3,Fog,1.1,Urban Road,Daylight,54
+40.776541,-74.052153,New York,NY,2024-11-12,18:44:05,Minor,23.6,Rain,0.5,Urban Road,Dawn,67
+40.844725,-73.749292,New York,NY,2024-07-01,06:48:36,Minor,4.4,Clear,2.2,Residential Street,Daylight,48
+40.602519,-73.896976,New York,NY,2024-10-03,05:22:36,Major,10.7,Cloudy,5.1,Highway,Night,47
+40.742485,-73.947857,New York,NY,2024-09-25,00:24:04,Minor,34.2,Rain,9.3,Intersection,Night,46
+40.738032,-73.709168,New York,NY,2024-06-09,09:43:01,Minor,23.1,Clear,0.9,Residential Street,Night,70
+40.71047,-74.070879,New York,NY,2024-12-30,11:12:28,Fatal,10.1,Rain,3.7,Intersection,Daylight,57
+40.70259,-74.17985,New York,NY,2024-05-04,00:54:48,Major,34.9,Fog,8.3,Intersection,Night,70
+40.707435,-73.897997,New York,NY,2024-07-13,06:17:55,Fatal,12.6,Cloudy,5.2,Residential Street,Daylight,43
+40.716963,-73.727949,New York,NY,2024-06-21,02:53:36,Minor,34.3,Clear,0.4,Residential Street,Dawn,59
+40.767269,-74.021815,New York,NY,2024-05-23,17:12:51,Fatal,24.4,Snow,5.9,Highway,Dusk,49
+40.851812,-74.156542,New York,NY,2024-10-30,17:18:42,Minor,-0.3,Snow,5.8,Urban Road,Daylight,39
+40.544155,-74.130019,New York,NY,2024-08-06,19:41:41,Fatal,6.0,Cloudy,9.1,Residential Street,Night,38
+40.73031,-74.054963,New York,NY,2024-05-08,01:29:25,Minor,24.1,Cloudy,0.7,Residential Street,Dusk,35
+40.766765,-74.127259,New York,NY,2024-08-13,15:17:50,Fatal,-4.0,Rain,8.3,Intersection,Night,56
+40.764177,-74.082006,New York,NY,2024-06-29,06:49:56,Fatal,5.0,Fog,7.7,Residential Street,Dawn,53
+40.514942,-74.126532,New York,NY,2024-12-03,14:38:14,Fatal,30.1,Rain,1.9,Highway,Dusk,33
+40.879952,-73.873332,New York,NY,2024-04-06,00:10:16,Fatal,27.9,Cloudy,2.6,Highway,Night,56
+40.750804,-73.938878,New York,NY,2024-08-15,15:49:52,Fatal,31.1,Clear,6.3,Residential Street,Night,70
+40.645842,-73.995044,New York,NY,2024-07-10,08:51:16,Fatal,6.7,Cloudy,3.6,Urban Road,Night,62
+40.708711,-73.803123,New York,NY,2024-10-22,01:42:52,Minor,23.9,Clear,8.2,Highway,Dawn,58
+40.517629,-73.972923,New York,NY,2024-02-20,00:13:03,Minor,6.5,Snow,7.0,Urban Road,Night,37
+40.721088,-73.95436,New York,NY,2024-02-01,00:07:30,Minor,7.3,Snow,8.2,Intersection,Night,45
+40.620687,-74.187215,New York,NY,2024-01-30,23:27:34,Major,17.2,Cloudy,3.6,Highway,Dawn,65
+40.673876,-74.114521,New York,NY,2024-06-10,08:13:57,Fatal,9.9,Fog,8.6,Intersection,Daylight,34
+40.597042,-73.734425,New York,NY,2024-02-24,21:34:23,Major,18.1,Rain,4.3,Urban Road,Dusk,57
+40.750055,-73.949232,New York,NY,2024-01-11,03:02:40,Fatal,34.1,Snow,6.4,Highway,Daylight,67
+40.751218,-73.986546,New York,NY,2024-12-27,13:23:06,Major,10.9,Snow,8.0,Residential Street,Dawn,55
+40.631356,-73.943632,New York,NY,2024-06-28,16:28:58,Minor,10.7,Clear,2.7,Highway,Night,69
+40.545734,-73.793531,New York,NY,2024-02-02,08:52:48,Minor,24.1,Cloudy,3.1,Highway,Daylight,69
+40.560725,-73.737763,New York,NY,2024-11-24,10:25:39,Minor,13.7,Snow,4.3,Intersection,Dawn,64
+40.779271,-73.797607,New York,NY,2024-02-04,17:31:53,Fatal,4.4,Snow,7.4,Urban Road,Night,38
+40.645686,-73.932346,New York,NY,2024-11-24,16:29:10,Major,10.2,Rain,9.1,Residential Street,Dawn,59
+40.623457,-74.041864,New York,NY,2024-12-27,04:22:46,Major,24.3,Rain,0.8,Intersection,Dawn,66
+40.851423,-73.964795,New York,NY,2024-04-06,03:17:11,Major,27.2,Fog,6.8,Highway,Night,59
+40.788656,-74.146827,New York,NY,2024-11-06,04:14:14,Fatal,13.4,Clear,4.7,Urban Road,Daylight,51
+40.563953,-73.971218,New York,NY,2024-12-12,06:48:05,Major,34.1,Cloudy,0.8,Urban Road,Dawn,33
+40.568032,-73.958579,New York,NY,2024-07-06,17:07:54,Fatal,19.3,Rain,6.6,Highway,Dawn,69
+40.52587,-74.081069,New York,NY,2024-02-11,05:58:14,Fatal,0.0,Fog,3.3,Intersection,Night,62
+40.635899,-74.020688,New York,NY,2024-07-15,18:18:50,Minor,-0.2,Fog,0.1,Highway,Dusk,54
+40.640266,-73.820208,New York,NY,2024-03-04,11:37:31,Fatal,17.6,Cloudy,9.7,Urban Road,Daylight,46
+40.550814,-73.989937,New York,NY,2024-07-02,20:12:47,Major,19.6,Fog,7.1,Highway,Daylight,40
+40.629885,-74.122128,New York,NY,2024-01-21,07:09:20,Minor,6.5,Clear,6.2,Urban Road,Dawn,49
+40.776801,-73.936161,New York,NY,2024-01-03,03:14:18,Fatal,22.7,Fog,6.6,Residential Street,Night,56
+40.749733,-74.06156,New York,NY,2024-01-28,16:09:54,Major,30.8,Snow,1.1,Intersection,Dawn,30
+40.677117,-73.770914,New York,NY,2024-10-07,13:38:27,Fatal,7.4,Rain,9.3,Urban Road,Night,44
+40.864537,-73.722325,New York,NY,2024-01-23,04:32:35,Minor,26.2,Snow,6.8,Urban Road,Dawn,54
+40.698927,-73.865004,New York,NY,2024-10-25,17:49:01,Major,18.8,Fog,1.9,Highway,Dusk,35
+40.77502,-73.890384,New York,NY,2024-03-23,20:54:42,Fatal,26.8,Fog,5.1,Residential Street,Dusk,49
+40.630782,-74.110515,New York,NY,2024-12-21,05:22:23,Minor,10.8,Fog,2.2,Highway,Night,51
+40.521592,-74.180373,New York,NY,2024-06-13,05:18:50,Major,9.6,Snow,2.3,Residential Street,Dusk,33
+40.889301,-73.904692,New York,NY,2024-10-10,23:14:24,Minor,32.1,Cloudy,5.8,Intersection,Night,53
+40.706838,-74.178223,New York,NY,2024-06-02,05:23:14,Minor,32.3,Fog,3.3,Urban Road,Night,35
+40.743,-73.959852,New York,NY,2024-06-06,06:37:51,Major,4.1,Fog,9.3,Urban Road,Dawn,55
+40.591979,-73.768801,New York,NY,2024-08-10,11:37:04,Fatal,9.9,Clear,3.8,Intersection,Dawn,60
+40.832668,-74.115379,New York,NY,2024-11-18,01:08:30,Major,19.1,Snow,8.7,Urban Road,Dusk,45
+40.780224,-73.963245,New York,NY,2024-02-13,21:54:57,Fatal,3.6,Fog,4.9,Highway,Night,65
+40.570257,-73.749047,New York,NY,2024-11-03,17:11:51,Major,16.6,Snow,5.4,Highway,Night,57
+40.736943,-73.751989,New York,NY,2024-11-12,22:28:10,Major,6.0,Fog,1.7,Residential Street,Daylight,35
+40.855787,-74.068924,New York,NY,2024-04-24,22:05:55,Fatal,17.7,Rain,7.2,Highway,Dawn,52
+40.502314,-73.760869,New York,NY,2024-08-29,12:54:01,Minor,11.1,Rain,8.5,Highway,Dawn,65
+40.744919,-73.848867,New York,NY,2024-08-04,22:07:16,Minor,0.3,Rain,6.6,Residential Street,Night,55
+40.662774,-73.719261,New York,NY,2024-09-08,17:22:45,Major,19.7,Fog,9.4,Intersection,Daylight,60
+40.512177,-73.736067,New York,NY,2024-05-10,16:44:21,Minor,21.2,Snow,2.3,Intersection,Dusk,30
+40.804404,-74.068116,New York,NY,2024-12-11,13:28:14,Major,27.2,Fog,9.2,Highway,Dusk,57
+40.748691,-74.168393,New York,NY,2024-12-02,00:00:46,Fatal,0.3,Clear,0.9,Intersection,Daylight,53
+40.60885,-74.00721,New York,NY,2024-10-18,08:40:28,Minor,26.0,Rain,8.3,Highway,Daylight,62
+40.654746,-73.872265,New York,NY,2024-08-14,20:33:59,Minor,27.0,Rain,6.7,Residential Street,Dawn,57
+40.793674,-74.144043,New York,NY,2024-07-19,14:54:08,Fatal,1.5,Rain,8.7,Highway,Dusk,58
+40.703668,-73.994031,New York,NY,2024-05-21,04:59:44,Major,15.3,Fog,5.2,Urban Road,Night,66
+40.859819,-73.984572,New York,NY,2024-10-05,18:32:51,Minor,-3.5,Rain,7.0,Urban Road,Dawn,49
+40.735765,-73.937342,New York,NY,2024-09-26,13:36:19,Minor,1.8,Cloudy,6.2,Urban Road,Dawn,50
+40.5108,-74.090911,New York,NY,2024-06-18,10:38:54,Major,-0.8,Snow,5.6,Intersection,Dawn,30
+40.848876,-74.016717,New York,NY,2024-06-24,14:39:08,Minor,14.1,Fog,0.8,Residential Street,Daylight,70
+40.648603,-73.889339,New York,NY,2024-07-04,19:42:53,Minor,15.1,Clear,0.2,Residential Street,Daylight,70
+40.75818,-74.162499,New York,NY,2024-09-15,07:16:18,Minor,23.9,Rain,4.4,Highway,Night,40
+40.504362,-74.076184,New York,NY,2024-11-15,00:55:08,Fatal,-3.2,Rain,6.8,Intersection,Dusk,46
+40.622841,-74.04522,New York,NY,2024-01-31,12:21:37,Fatal,1.9,Cloudy,4.6,Urban Road,Dawn,33
+40.503464,-73.866615,New York,NY,2024-02-08,11:18:57,Major,29.6,Cloudy,4.7,Highway,Dawn,30
+40.647078,-73.95963,New York,NY,2024-10-22,05:28:49,Major,27.6,Cloudy,2.1,Highway,Night,35
+40.669894,-74.010773,New York,NY,2024-03-26,12:19:01,Minor,6.0,Rain,1.2,Intersection,Dawn,59
+40.544968,-73.8942,New York,NY,2024-05-23,16:27:56,Major,19.6,Rain,4.3,Intersection,Night,55
+40.711474,-73.957877,New York,NY,2024-01-31,07:44:33,Fatal,-4.3,Rain,8.3,Highway,Daylight,37
+40.868943,-73.769792,New York,NY,2024-04-09,22:46:48,Minor,29.0,Snow,3.8,Residential Street,Daylight,42
+40.703096,-73.881849,New York,NY,2024-06-15,01:26:28,Major,9.5,Rain,0.4,Residential Street,Dusk,60
+40.64595,-73.849437,New York,NY,2024-07-01,14:45:56,Fatal,19.4,Snow,3.6,Residential Street,Dawn,39
+40.587198,-73.849802,New York,NY,2024-03-15,09:04:23,Major,24.7,Cloudy,7.8,Residential Street,Night,40
+40.550244,-74.150458,New York,NY,2024-07-19,06:19:19,Minor,15.3,Fog,8.7,Intersection,Night,50
+40.700242,-74.061843,New York,NY,2024-11-17,06:11:02,Major,33.1,Rain,3.2,Residential Street,Dusk,67
+40.837477,-74.138666,New York,NY,2024-06-10,22:48:27,Major,6.4,Clear,1.3,Residential Street,Dawn,41
+40.840643,-73.802864,New York,NY,2024-02-19,07:06:52,Major,25.3,Rain,7.8,Residential Street,Dawn,70
+40.608075,-73.73496,New York,NY,2024-10-01,06:41:23,Major,14.0,Snow,7.7,Highway,Daylight,48
+40.808794,-74.055594,New York,NY,2024-05-29,16:06:18,Minor,10.2,Rain,7.1,Intersection,Daylight,40
+40.891029,-74.048217,New York,NY,2024-07-14,05:33:11,Minor,-3.0,Clear,0.9,Urban Road,Dawn,61
+40.649619,-74.000157,New York,NY,2024-09-08,16:26:04,Fatal,20.5,Fog,1.1,Urban Road,Dusk,45
+40.534006,-73.825921,New York,NY,2024-03-19,18:17:26,Fatal,-3.2,Snow,6.7,Residential Street,Daylight,66
+40.632685,-74.01131,New York,NY,2024-06-02,14:05:06,Major,6.7,Rain,8.4,Urban Road,Dawn,63
+40.879739,-73.703513,New York,NY,2024-02-24,13:32:28,Minor,20.4,Rain,5.4,Urban Road,Dusk,65
+40.837974,-73.788151,New York,NY,2024-06-06,04:05:20,Major,32.1,Rain,6.4,Highway,Daylight,37
+40.621288,-73.749008,New York,NY,2024-12-17,05:06:28,Fatal,32.6,Rain,7.8,Highway,Dusk,54
+40.793688,-74.142255,New York,NY,2024-06-17,03:03:07,Major,30.2,Clear,8.6,Urban Road,Dusk,60
+40.848018,-73.970114,New York,NY,2024-02-11,03:23:22,Minor,33.8,Clear,3.1,Intersection,Night,35
+40.69834,-73.883262,New York,NY,2024-01-06,04:13:55,Minor,21.3,Rain,6.7,Highway,Night,70
+40.591236,-73.935003,New York,NY,2024-02-20,13:29:00,Minor,5.2,Clear,5.9,Urban Road,Daylight,38
+40.751656,-73.930477,New York,NY,2024-10-08,14:51:16,Fatal,-2.5,Snow,2.5,Highway,Dusk,64
+40.871783,-73.753331,New York,NY,2024-08-08,08:30:51,Fatal,3.1,Snow,6.1,Highway,Dusk,60
+40.597206,-73.767466,New York,NY,2024-06-14,17:09:37,Fatal,2.9,Fog,8.3,Urban Road,Dusk,39
+40.750335,-73.964753,New York,NY,2024-12-27,06:59:33,Minor,28.3,Rain,7.8,Intersection,Daylight,67
+40.571693,-74.186582,New York,NY,2024-04-25,04:39:25,Minor,5.1,Snow,2.5,Urban Road,Daylight,57
+40.731117,-73.769414,New York,NY,2024-05-03,13:18:14,Major,22.2,Fog,6.8,Residential Street,Daylight,46
+40.657572,-73.844235,New York,NY,2024-04-03,17:18:31,Minor,27.1,Clear,7.7,Highway,Dusk,61
+40.793437,-73.732947,New York,NY,2024-09-20,11:46:10,Major,29.0,Cloudy,0.1,Residential Street,Dusk,33
+40.50064,-74.055041,New York,NY,2024-10-27,04:38:48,Fatal,17.7,Rain,7.4,Residential Street,Dusk,36
+40.885702,-73.760071,New York,NY,2024-03-04,23:51:54,Major,-1.0,Snow,2.5,Residential Street,Dawn,55
+40.607338,-74.140521,New York,NY,2024-10-16,23:26:46,Minor,30.1,Fog,6.1,Urban Road,Daylight,65
+40.571751,-74.152494,New York,NY,2024-11-08,06:38:53,Minor,34.5,Snow,3.0,Highway,Dusk,65
+40.577333,-73.831934,New York,NY,2024-08-11,17:57:56,Minor,-2.1,Cloudy,5.9,Intersection,Dusk,31
+40.549018,-73.970637,New York,NY,2024-04-13,05:47:12,Fatal,32.6,Clear,6.9,Intersection,Daylight,69
+40.699558,-73.851746,New York,NY,2024-05-18,20:17:56,Fatal,10.1,Cloudy,1.2,Urban Road,Daylight,55
+40.612962,-73.818492,New York,NY,2024-07-10,13:34:12,Minor,18.1,Clear,5.8,Highway,Night,37
+40.775626,-73.700335,New York,NY,2024-03-16,23:50:17,Fatal,30.2,Cloudy,5.6,Highway,Dusk,31
+40.769843,-73.908447,New York,NY,2024-12-23,10:03:25,Minor,3.7,Rain,8.4,Intersection,Night,34
+40.688009,-74.049747,New York,NY,2024-03-19,03:12:33,Minor,-3.4,Rain,0.8,Highway,Night,40
+40.832347,-73.96139,New York,NY,2024-01-11,12:16:05,Major,22.3,Rain,0.8,Residential Street,Dawn,59
+40.864098,-74.19246,New York,NY,2024-05-05,16:44:32,Fatal,17.2,Fog,3.0,Highway,Dusk,38
+40.757864,-74.183207,New York,NY,2024-10-23,07:04:21,Minor,11.7,Fog,1.8,Urban Road,Daylight,47
+40.591504,-74.060001,New York,NY,2024-09-16,18:40:31,Fatal,-1.2,Rain,0.3,Residential Street,Night,56
+40.729701,-74.042543,New York,NY,2024-04-25,19:32:26,Major,32.2,Snow,6.6,Highway,Dusk,70
+40.537494,-74.072947,New York,NY,2024-01-28,13:57:56,Fatal,4.5,Fog,1.2,Highway,Dusk,63
+40.603077,-73.781067,New York,NY,2024-12-25,10:17:50,Fatal,8.8,Cloudy,4.3,Urban Road,Night,30
+40.571955,-73.920403,New York,NY,2024-04-16,22:39:55,Minor,9.9,Clear,7.3,Urban Road,Daylight,41
+40.628931,-73.993467,New York,NY,2024-09-20,22:56:00,Major,27.6,Cloudy,3.7,Intersection,Dusk,54
+40.531936,-74.182793,New York,NY,2024-12-06,08:25:10,Minor,12.5,Fog,8.6,Urban Road,Dawn,45
+40.67369,-74.136089,New York,NY,2024-07-18,03:30:19,Minor,6.9,Rain,2.6,Urban Road,Dusk,58
+40.635841,-74.157767,New York,NY,2024-04-10,14:36:32,Minor,11.6,Snow,0.9,Highway,Dusk,65
+40.859778,-73.982017,New York,NY,2024-09-09,18:58:24,Fatal,0.5,Snow,8.7,Highway,Daylight,52
+40.875522,-73.958263,New York,NY,2024-11-21,07:46:10,Fatal,17.3,Snow,8.9,Intersection,Dusk,45
+40.721261,-73.700071,New York,NY,2024-03-17,01:27:48,Fatal,2.3,Snow,1.8,Intersection,Dusk,51
+40.576296,-73.844556,New York,NY,2024-06-19,00:57:40,Major,6.1,Clear,0.8,Urban Road,Daylight,63
+40.532284,-74.151908,New York,NY,2024-07-21,02:49:58,Minor,27.0,Snow,8.4,Intersection,Daylight,69
+40.670824,-74.016146,New York,NY,2024-01-05,04:59:16,Fatal,32.1,Clear,1.7,Highway,Dusk,50
+40.856339,-74.113001,New York,NY,2024-07-02,15:13:01,Fatal,-0.7,Fog,0.8,Intersection,Daylight,40
+40.611142,-73.836242,New York,NY,2024-07-14,09:19:32,Fatal,13.7,Cloudy,2.7,Intersection,Dusk,48
+40.575652,-73.851729,New York,NY,2024-10-21,05:49:15,Major,6.4,Snow,5.3,Urban Road,Daylight,61
+40.814278,-74.108581,New York,NY,2024-05-21,06:49:40,Major,4.4,Rain,6.3,Residential Street,Dawn,44
+40.749955,-74.02466,New York,NY,2024-04-08,04:15:04,Major,2.2,Clear,4.0,Intersection,Night,51
+40.775924,-73.746595,New York,NY,2024-07-06,07:53:26,Major,29.3,Snow,5.0,Highway,Dawn,32
+40.736793,-74.03079,New York,NY,2024-02-25,20:16:56,Minor,29.3,Rain,2.1,Residential Street,Night,65
+40.545751,-73.770462,New York,NY,2024-08-28,23:48:03,Fatal,34.4,Snow,4.3,Highway,Night,52
+40.862178,-73.860691,New York,NY,2024-11-01,12:02:31,Fatal,22.4,Cloudy,9.5,Urban Road,Daylight,40
+40.797224,-73.869762,New York,NY,2024-12-10,11:10:04,Minor,25.3,Cloudy,4.5,Urban Road,Dawn,69
+40.743208,-74.162285,New York,NY,2024-10-21,11:01:09,Fatal,23.0,Rain,3.0,Urban Road,Night,70
+40.63147,-73.852022,New York,NY,2024-05-08,23:29:59,Major,19.2,Fog,4.1,Highway,Night,64
+40.568769,-73.983236,New York,NY,2024-06-19,13:38:04,Major,18.6,Clear,1.3,Intersection,Daylight,36
+40.669872,-74.123151,New York,NY,2024-07-01,17:48:01,Fatal,5.0,Rain,5.2,Residential Street,Dusk,68
+40.805501,-73.714845,New York,NY,2024-09-17,21:33:24,Major,11.1,Snow,3.0,Highway,Night,40
+40.814431,-73.917578,New York,NY,2024-12-15,04:32:39,Fatal,-4.9,Clear,0.8,Intersection,Dusk,66
+40.674797,-74.018727,New York,NY,2024-11-27,08:18:02,Fatal,31.1,Cloudy,2.9,Residential Street,Night,57
+40.777856,-74.032805,New York,NY,2024-05-25,22:21:21,Fatal,1.3,Clear,3.2,Intersection,Dusk,60
+40.590078,-73.919256,New York,NY,2024-09-23,23:56:58,Fatal,17.5,Rain,6.7,Highway,Night,66
+40.848431,-74.065075,New York,NY,2024-03-29,03:54:01,Major,18.2,Rain,1.5,Highway,Dusk,31
+40.644599,-73.89251,New York,NY,2024-10-09,05:17:09,Fatal,16.1,Snow,3.0,Intersection,Night,44
+40.505489,-74.152716,New York,NY,2024-01-20,22:02:38,Major,0.6,Clear,5.0,Residential Street,Dusk,45
+40.56352,-74.108355,New York,NY,2024-10-28,11:28:12,Major,28.2,Clear,7.1,Highway,Daylight,58
+40.599439,-73.923902,New York,NY,2024-10-04,23:31:42,Fatal,-1.9,Cloudy,7.4,Highway,Dusk,40
+40.817306,-74.116416,New York,NY,2024-03-18,14:21:12,Fatal,13.4,Clear,3.5,Intersection,Dusk,43
+40.647913,-73.778601,New York,NY,2024-01-30,04:36:56,Minor,20.3,Snow,0.8,Urban Road,Dusk,64
+40.827121,-74.008173,New York,NY,2024-04-29,02:26:30,Minor,13.9,Rain,7.8,Residential Street,Daylight,31
+40.566241,-74.079751,New York,NY,2024-12-11,19:49:20,Major,-0.8,Cloudy,0.5,Residential Street,Dusk,54
+40.635531,-73.755807,New York,NY,2024-05-09,08:53:38,Major,15.0,Clear,7.7,Residential Street,Night,41
+40.655506,-74.024384,New York,NY,2024-10-22,13:00:51,Minor,34.5,Rain,6.9,Residential Street,Daylight,42
+40.74669,-74.041182,New York,NY,2024-08-16,15:58:23,Fatal,13.8,Fog,2.1,Intersection,Daylight,58
+40.869914,-73.83517,New York,NY,2024-05-28,19:00:23,Fatal,16.6,Snow,4.7,Urban Road,Night,33
+40.732244,-73.812619,New York,NY,2024-08-03,08:32:44,Major,22.8,Clear,0.1,Urban Road,Dusk,38
+40.856277,-73.846531,New York,NY,2024-07-09,03:35:43,Major,-3.7,Snow,2.4,Highway,Night,61
+40.677048,-73.919428,New York,NY,2024-02-15,17:02:41,Minor,26.3,Snow,0.9,Residential Street,Night,62
+40.718022,-74.008604,New York,NY,2024-11-13,05:31:37,Minor,-1.7,Cloudy,0.6,Highway,Night,60
+40.539348,-73.888356,New York,NY,2024-07-17,03:24:43,Minor,32.1,Cloudy,9.7,Intersection,Dawn,51
+40.681822,-74.145783,New York,NY,2024-01-02,10:58:14,Fatal,33.2,Fog,8.2,Urban Road,Dusk,52
+40.695715,-73.786704,New York,NY,2024-04-13,19:55:34,Major,26.1,Snow,5.0,Intersection,Dusk,48
+40.555526,-74.127558,New York,NY,2024-11-19,20:22:53,Minor,33.8,Fog,3.6,Intersection,Dusk,65
+40.809262,-74.198607,New York,NY,2024-05-22,13:49:53,Fatal,28.9,Snow,5.2,Urban Road,Dusk,34
+40.595209,-74.086995,New York,NY,2024-05-24,20:32:14,Fatal,29.1,Cloudy,1.9,Intersection,Dawn,53
+40.50232,-74.140033,New York,NY,2024-12-18,21:51:07,Minor,30.5,Clear,4.3,Highway,Daylight,62
+40.881001,-74.034203,New York,NY,2024-02-14,05:13:41,Fatal,8.9,Rain,10.0,Residential Street,Daylight,39
+40.885863,-74.093602,New York,NY,2024-02-13,19:38:15,Minor,19.5,Snow,5.3,Highway,Night,42
+40.839871,-73.707991,New York,NY,2024-01-27,15:37:13,Fatal,25.6,Clear,6.5,Residential Street,Dawn,30
+40.779522,-74.044959,New York,NY,2024-03-17,02:13:28,Minor,-3.8,Cloudy,9.0,Residential Street,Dusk,38
+40.877753,-74.15565,New York,NY,2024-11-22,22:22:44,Major,0.6,Cloudy,2.6,Urban Road,Night,30
+40.53302,-73.900989,New York,NY,2024-08-24,00:14:18,Major,-4.5,Snow,8.9,Highway,Daylight,57
+40.882854,-73.766317,New York,NY,2024-07-02,18:05:51,Minor,-1.9,Rain,7.3,Intersection,Daylight,32
+40.549564,-73.794642,New York,NY,2024-06-30,13:57:57,Major,22.3,Fog,5.7,Intersection,Night,51
+40.520728,-73.721125,New York,NY,2024-04-26,19:13:23,Major,1.1,Clear,0.4,Intersection,Dusk,30
+40.752368,-73.973449,New York,NY,2024-05-30,16:26:42,Minor,22.0,Snow,9.3,Intersection,Dawn,35
+40.877981,-74.142644,New York,NY,2024-09-12,08:17:27,Minor,26.6,Cloudy,3.6,Urban Road,Daylight,62
+40.824271,-73.742806,New York,NY,2024-11-06,06:59:11,Fatal,7.8,Fog,2.7,Intersection,Dusk,46
+40.765045,-73.911327,New York,NY,2024-06-22,10:12:08,Fatal,15.5,Snow,3.1,Urban Road,Night,49
+40.879075,-74.158802,New York,NY,2024-08-25,04:23:23,Major,10.9,Rain,3.6,Urban Road,Daylight,65
+40.767167,-74.032468,New York,NY,2024-11-30,02:58:01,Fatal,24.5,Fog,3.3,Highway,Dawn,30
+40.734377,-74.003442,New York,NY,2024-06-27,07:24:27,Fatal,11.3,Fog,6.7,Highway,Dusk,30
+40.683984,-73.8609,New York,NY,2024-10-09,14:28:51,Major,-3.2,Snow,1.9,Highway,Night,41
+40.748029,-73.719628,New York,NY,2024-05-15,18:41:28,Major,19.7,Cloudy,7.0,Highway,Night,64
+40.716817,-73.96794,New York,NY,2024-10-26,21:52:11,Minor,17.8,Clear,1.1,Intersection,Night,57
+40.720896,-74.042046,New York,NY,2024-04-23,07:05:38,Minor,6.4,Rain,9.0,Highway,Dusk,46
+40.651326,-74.092792,New York,NY,2024-12-11,16:31:31,Minor,23.4,Fog,7.1,Urban Road,Night,57
+40.748776,-74.179859,New York,NY,2024-08-02,10:50:52,Minor,27.0,Fog,1.8,Urban Road,Dawn,53
+40.594544,-73.902448,New York,NY,2024-08-18,03:20:09,Minor,30.8,Rain,0.2,Intersection,Night,69
+40.536576,-73.943624,New York,NY,2024-09-09,15:45:42,Major,22.4,Fog,2.7,Highway,Daylight,43
+40.692021,-73.804745,New York,NY,2024-12-21,19:27:07,Major,20.3,Cloudy,2.8,Residential Street,Night,55
+40.87039,-73.805358,New York,NY,2024-04-12,01:34:07,Major,5.8,Cloudy,3.3,Intersection,Daylight,57
+40.559022,-73.96685,New York,NY,2024-03-04,02:21:48,Fatal,18.2,Fog,5.0,Highway,Dusk,54
+40.645928,-73.884178,New York,NY,2024-06-01,09:24:55,Major,5.7,Fog,7.9,Urban Road,Dusk,32
+40.817469,-73.885889,New York,NY,2024-03-04,13:29:09,Minor,4.1,Cloudy,2.7,Intersection,Dusk,33
+40.762442,-73.770497,New York,NY,2024-12-03,17:46:42,Major,0.4,Fog,8.6,Residential Street,Dawn,45
+40.608234,-74.108658,New York,NY,2024-12-24,13:48:54,Fatal,16.8,Rain,6.6,Urban Road,Dusk,60
+40.736967,-73.730669,New York,NY,2024-10-10,13:52:46,Minor,25.6,Rain,4.1,Residential Street,Daylight,63
+40.870247,-74.004383,New York,NY,2024-06-26,16:51:33,Minor,17.0,Clear,8.4,Urban Road,Dusk,53
+40.781107,-73.717023,New York,NY,2024-06-07,22:02:16,Major,11.3,Rain,9.6,Residential Street,Daylight,58
+40.702296,-73.816172,New York,NY,2024-01-01,03:36:23,Minor,-4.0,Rain,8.5,Highway,Dawn,43
+40.699613,-73.945994,New York,NY,2024-01-06,11:08:54,Major,18.4,Snow,1.6,Urban Road,Night,70
+40.514761,-73.945627,New York,NY,2024-05-26,02:43:03,Fatal,0.4,Snow,0.4,Residential Street,Dawn,53
+40.537708,-73.890956,New York,NY,2024-10-22,21:45:19,Fatal,20.0,Snow,4.7,Intersection,Night,64
+40.515448,-73.924661,New York,NY,2024-08-01,08:38:05,Fatal,0.8,Rain,4.4,Intersection,Dusk,68
+40.880008,-74.105556,New York,NY,2024-08-21,09:22:10,Major,15.2,Fog,6.2,Highway,Dawn,33
+40.588237,-73.863048,New York,NY,2024-01-14,14:15:23,Minor,16.9,Clear,1.3,Residential Street,Daylight,62
+40.753098,-73.87414,New York,NY,2024-02-21,07:15:47,Major,25.7,Snow,7.0,Residential Street,Dusk,65
+40.646225,-73.841178,New York,NY,2024-09-08,08:59:47,Major,24.1,Clear,1.4,Intersection,Dusk,59
+40.749786,-73.84543,New York,NY,2024-06-25,02:03:17,Major,-0.9,Clear,5.8,Highway,Daylight,49
+40.671965,-73.779257,New York,NY,2024-04-27,23:42:24,Minor,1.5,Cloudy,8.0,Residential Street,Dusk,37
+40.784688,-73.898084,New York,NY,2024-03-18,16:50:11,Major,14.7,Clear,0.6,Residential Street,Dusk,45
+40.606682,-74.057864,New York,NY,2024-02-29,00:04:38,Fatal,8.3,Rain,7.4,Highway,Dawn,56
+40.679876,-73.791876,New York,NY,2024-03-01,18:14:18,Minor,31.8,Clear,9.4,Residential Street,Dawn,53
+40.736585,-73.734582,New York,NY,2024-05-31,05:22:42,Fatal,32.8,Cloudy,1.7,Urban Road,Night,59
+40.806713,-74.151316,New York,NY,2024-11-14,21:42:30,Minor,1.6,Cloudy,3.4,Urban Road,Night,50
+40.826217,-73.763582,New York,NY,2024-01-30,17:11:25,Fatal,24.8,Snow,8.8,Intersection,Dawn,40
+40.797093,-74.064897,New York,NY,2024-05-28,23:10:12,Major,23.2,Snow,7.9,Highway,Night,34
+40.881223,-73.928577,New York,NY,2024-05-07,14:39:45,Fatal,-1.3,Rain,6.1,Urban Road,Dawn,64
+40.553273,-73.918254,New York,NY,2024-04-16,17:21:34,Major,0.7,Fog,3.6,Urban Road,Daylight,63
+40.537626,-73.963791,New York,NY,2024-08-10,18:04:53,Major,14.1,Fog,3.2,Urban Road,Daylight,55
+40.814215,-74.135051,New York,NY,2024-06-03,07:51:09,Major,24.6,Fog,2.2,Residential Street,Dusk,41
+40.585138,-74.132947,New York,NY,2024-04-25,04:00:40,Minor,18.6,Snow,8.6,Highway,Dawn,45
+40.821985,-74.176577,New York,NY,2024-06-18,04:35:22,Minor,29.8,Fog,6.9,Intersection,Night,69
+40.868104,-74.170512,New York,NY,2024-03-19,07:28:21,Minor,21.4,Cloudy,0.7,Residential Street,Dusk,58
+40.515903,-73.880906,New York,NY,2024-03-28,08:18:22,Major,-3.2,Snow,4.1,Urban Road,Daylight,52
+40.574368,-73.74355,New York,NY,2024-06-20,04:04:16,Fatal,10.5,Snow,7.7,Highway,Night,36
+40.774918,-74.010387,New York,NY,2024-02-20,11:13:57,Minor,-1.8,Snow,5.4,Intersection,Daylight,68
+40.750804,-73.941823,New York,NY,2024-04-14,17:55:04,Fatal,8.9,Cloudy,7.9,Highway,Dusk,35
+40.688512,-73.793657,New York,NY,2024-04-29,08:59:47,Major,29.2,Clear,3.0,Residential Street,Night,47
+40.748425,-74.191361,New York,NY,2024-12-12,04:19:32,Fatal,11.4,Clear,0.2,Residential Street,Dawn,66
+40.864773,-73.719869,New York,NY,2024-07-23,18:23:07,Minor,18.3,Rain,2.4,Residential Street,Night,32
+40.693388,-74.158431,New York,NY,2024-02-29,18:31:03,Major,-3.0,Fog,2.3,Intersection,Night,48
+40.75728,-73.747904,New York,NY,2024-03-14,00:21:09,Minor,12.3,Rain,5.3,Intersection,Night,70
+40.891797,-74.071366,New York,NY,2024-03-28,11:58:57,Minor,10.5,Cloudy,0.5,Intersection,Dawn,46
+40.573539,-73.937772,New York,NY,2024-09-16,05:39:18,Minor,29.4,Fog,2.6,Urban Road,Dusk,49
+40.835213,-73.837584,New York,NY,2024-11-28,14:45:23,Major,11.8,Clear,3.7,Residential Street,Daylight,43
+40.663142,-73.984669,New York,NY,2024-04-19,23:34:29,Fatal,-1.2,Rain,0.1,Urban Road,Dawn,53
+40.628001,-73.953257,New York,NY,2024-08-10,04:44:05,Fatal,15.1,Fog,0.8,Residential Street,Daylight,70
+40.808148,-73.790398,New York,NY,2024-07-17,13:18:25,Minor,-1.2,Snow,1.0,Intersection,Dawn,59
+40.79144,-73.759004,New York,NY,2024-05-03,04:14:26,Minor,-2.9,Fog,10.0,Highway,Dusk,68
+40.564188,-74.07833,New York,NY,2024-02-09,20:34:11,Minor,6.9,Snow,4.8,Highway,Daylight,65
+40.776381,-74.184818,New York,NY,2024-12-03,21:20:11,Fatal,17.6,Clear,4.3,Highway,Dawn,32
+40.853627,-73.837116,New York,NY,2024-10-29,18:55:58,Minor,4.3,Fog,5.6,Intersection,Night,52
+40.633575,-73.888865,New York,NY,2024-01-15,07:21:04,Minor,6.5,Cloudy,7.8,Intersection,Dawn,69
+40.525292,-73.947409,New York,NY,2024-09-17,08:34:45,Major,26.5,Cloudy,7.3,Intersection,Dawn,56
+40.606135,-74.148527,New York,NY,2024-01-09,03:04:06,Major,-2.9,Snow,8.0,Intersection,Night,61
+40.64131,-73.703968,New York,NY,2024-04-04,08:34:19,Major,-4.1,Fog,7.7,Highway,Night,58
+40.588568,-73.761292,New York,NY,2024-07-06,20:57:56,Fatal,27.6,Fog,1.4,Intersection,Daylight,61
+40.562354,-74.034878,New York,NY,2024-11-04,17:50:43,Minor,33.9,Fog,6.8,Highway,Dusk,50
+40.820766,-73.944378,New York,NY,2024-09-02,17:33:13,Fatal,18.6,Snow,5.3,Residential Street,Dawn,67
+40.59182,-73.818184,New York,NY,2024-08-30,08:15:56,Major,2.1,Clear,0.1,Urban Road,Dawn,67
+40.623686,-74.134105,New York,NY,2024-04-10,00:36:09,Fatal,1.0,Fog,3.6,Intersection,Night,64
+40.713259,-73.797901,New York,NY,2024-12-31,15:32:46,Major,22.8,Rain,7.0,Intersection,Night,49
+40.514997,-74.156788,New York,NY,2024-07-04,12:59:24,Minor,29.0,Fog,7.8,Highway,Night,48
+40.514449,-74.14038,New York,NY,2024-04-09,23:41:21,Fatal,23.3,Rain,3.9,Urban Road,Night,30
+40.608071,-74.014494,New York,NY,2024-10-19,22:53:59,Major,26.9,Snow,3.9,Highway,Dusk,70
+40.755035,-73.734763,New York,NY,2024-05-18,18:18:09,Minor,-3.1,Fog,5.3,Urban Road,Night,61
+40.512141,-73.968282,New York,NY,2024-02-10,13:52:58,Major,8.7,Fog,5.2,Highway,Dawn,69
+40.774085,-73.766296,New York,NY,2024-05-20,10:42:29,Minor,-3.0,Snow,6.3,Residential Street,Dawn,42
+40.796675,-74.092956,New York,NY,2024-11-06,17:55:04,Minor,-1.3,Rain,4.6,Intersection,Dusk,34
+40.706118,-73.847754,New York,NY,2024-01-14,14:48:46,Fatal,31.6,Snow,6.8,Urban Road,Dawn,48
+40.859284,-74.094989,New York,NY,2024-07-30,19:22:03,Minor,15.9,Snow,2.2,Urban Road,Night,49
+40.542994,-73.908599,New York,NY,2024-11-23,16:22:35,Minor,17.4,Fog,7.8,Highway,Night,54
+40.845294,-74.041748,New York,NY,2024-12-26,21:11:06,Major,5.7,Fog,3.7,Intersection,Dawn,70
+40.71395,-73.817075,New York,NY,2024-08-23,12:40:25,Major,-0.2,Clear,6.5,Intersection,Night,49
+40.65694,-74.035532,New York,NY,2024-10-07,20:46:25,Fatal,11.6,Rain,6.4,Urban Road,Dawn,50
+40.553435,-74.097516,New York,NY,2024-01-23,17:16:28,Fatal,10.8,Clear,3.8,Urban Road,Dawn,45
+40.898602,-73.881392,New York,NY,2024-03-18,11:48:07,Major,10.3,Snow,2.2,Highway,Dusk,48
+40.652902,-73.713233,New York,NY,2024-08-22,12:55:41,Minor,0.9,Fog,5.8,Urban Road,Daylight,56
+40.594212,-74.009223,New York,NY,2024-03-23,09:57:38,Fatal,4.3,Clear,5.8,Intersection,Daylight,52
+40.792893,-74.098329,New York,NY,2024-02-16,18:22:58,Major,27.5,Fog,2.0,Intersection,Daylight,57
+40.767768,-73.908762,New York,NY,2024-10-25,02:48:50,Minor,1.9,Rain,7.7,Intersection,Daylight,31
+40.757705,-73.941089,New York,NY,2024-05-27,23:33:09,Major,1.1,Clear,1.2,Highway,Dusk,40
+40.737588,-74.091708,New York,NY,2024-02-07,19:57:42,Minor,27.7,Rain,6.9,Highway,Daylight,50
+40.70085,-74.154562,New York,NY,2024-09-01,22:52:10,Major,26.2,Snow,7.0,Highway,Dawn,67
+40.593802,-73.898249,New York,NY,2024-01-05,09:23:51,Fatal,0.5,Cloudy,3.3,Highway,Dusk,55
+40.560165,-73.910179,New York,NY,2024-06-26,04:19:18,Minor,10.3,Rain,9.7,Urban Road,Dusk,36
+40.660234,-74.182005,New York,NY,2024-01-10,21:51:21,Minor,-4.5,Snow,7.6,Intersection,Dawn,70
+40.66233,-73.843695,New York,NY,2024-12-05,18:26:13,Minor,4.9,Fog,2.4,Intersection,Dawn,38
+40.704152,-73.756483,New York,NY,2024-04-09,23:07:25,Major,-3.3,Cloudy,1.7,Residential Street,Dusk,67
+40.503529,-73.970742,New York,NY,2024-06-22,10:39:34,Fatal,24.5,Clear,3.5,Intersection,Dusk,43
+40.840278,-74.190423,New York,NY,2024-09-04,07:16:30,Major,23.1,Cloudy,3.1,Urban Road,Dusk,51
+40.794331,-73.774335,New York,NY,2024-02-29,08:05:08,Fatal,32.4,Snow,2.1,Residential Street,Dawn,40
+40.578146,-73.923772,New York,NY,2024-05-01,02:59:09,Major,20.0,Rain,2.3,Highway,Night,36
+40.53049,-74.188223,New York,NY,2024-03-01,21:39:34,Fatal,3.7,Clear,0.4,Residential Street,Night,64
+40.675819,-73.781812,New York,NY,2024-04-02,11:01:36,Fatal,3.4,Clear,2.4,Intersection,Dawn,32
+40.867465,-73.986468,New York,NY,2024-05-28,11:47:20,Minor,1.3,Clear,2.0,Residential Street,Daylight,55
+40.790015,-74.10795,New York,NY,2024-06-09,06:47:39,Fatal,-1.6,Snow,2.9,Intersection,Night,35
+40.845625,-73.96819,New York,NY,2024-08-09,22:06:06,Major,4.2,Fog,5.9,Urban Road,Daylight,50
+40.768954,-74.054979,New York,NY,2024-03-28,13:47:14,Minor,17.1,Fog,2.6,Residential Street,Dawn,36
+40.710623,-74.19973,New York,NY,2024-02-15,04:29:29,Major,12.6,Cloudy,8.0,Urban Road,Dawn,49
+40.642953,-73.936719,New York,NY,2024-03-02,07:53:11,Fatal,14.0,Cloudy,2.9,Urban Road,Daylight,34
+40.756263,-74.119745,New York,NY,2024-07-21,03:12:34,Major,-4.6,Rain,3.5,Residential Street,Daylight,32
+40.659145,-74.077326,New York,NY,2024-11-03,18:38:03,Minor,14.9,Clear,4.8,Residential Street,Daylight,60
+40.771005,-74.091089,New York,NY,2024-12-27,14:17:57,Major,2.1,Fog,6.8,Highway,Dawn,66
+40.606201,-73.999381,New York,NY,2024-09-07,16:48:10,Minor,27.9,Fog,3.8,Urban Road,Dawn,45
+40.818385,-73.861589,New York,NY,2024-01-07,13:38:21,Fatal,13.4,Snow,1.4,Residential Street,Dawn,61
+40.72489,-73.801352,New York,NY,2024-03-29,18:44:23,Major,-3.4,Fog,8.7,Highway,Night,47
+40.865074,-74.13687,New York,NY,2024-11-04,04:22:12,Fatal,3.1,Clear,2.2,Intersection,Dusk,59
+40.566385,-73.945763,New York,NY,2024-07-17,11:08:40,Fatal,29.7,Snow,7.5,Highway,Night,45
+40.887977,-74.120805,New York,NY,2024-10-06,23:26:38,Major,4.3,Clear,7.5,Highway,Night,62
+40.751702,-74.197851,New York,NY,2024-03-12,00:53:03,Major,0.8,Clear,6.2,Highway,Dawn,36
+40.827234,-73.792775,New York,NY,2024-06-10,01:13:52,Fatal,22.3,Clear,8.3,Intersection,Night,47
+40.582525,-74.029938,New York,NY,2024-08-22,14:13:14,Minor,12.7,Rain,1.8,Residential Street,Dusk,65
+40.807369,-74.179066,New York,NY,2024-08-14,21:39:18,Minor,29.4,Clear,9.1,Urban Road,Night,30
+40.820201,-73.761466,New York,NY,2024-07-01,07:35:49,Fatal,9.5,Rain,5.5,Urban Road,Dusk,32
+40.517332,-74.143642,New York,NY,2024-05-03,19:51:22,Minor,6.0,Cloudy,0.9,Residential Street,Night,43
+40.60488,-73.74645,New York,NY,2024-10-18,17:24:45,Minor,15.6,Fog,9.8,Highway,Daylight,45
+40.536374,-74.058805,New York,NY,2024-12-14,17:37:32,Fatal,21.3,Fog,3.9,Highway,Night,57
+40.592465,-73.752,New York,NY,2024-09-26,08:24:00,Major,16.7,Cloudy,6.5,Highway,Daylight,47
+40.781032,-74.190986,New York,NY,2024-03-03,17:17:31,Fatal,7.7,Snow,0.5,Intersection,Daylight,34
+40.650372,-73.851775,New York,NY,2024-07-24,03:39:06,Fatal,-2.8,Rain,8.5,Highway,Dusk,39
+40.536252,-73.944542,New York,NY,2024-07-22,14:05:42,Fatal,13.0,Fog,3.5,Highway,Night,43
+40.796189,-74.03289,New York,NY,2024-12-11,14:11:07,Fatal,34.0,Rain,7.8,Highway,Dawn,57
+40.787575,-74.038634,New York,NY,2024-09-25,20:58:20,Major,4.4,Snow,3.7,Intersection,Dusk,36
+40.705286,-73.925499,New York,NY,2024-12-14,03:36:26,Minor,30.5,Clear,0.1,Intersection,Daylight,52
+40.630557,-73.828998,New York,NY,2024-08-22,10:06:32,Major,6.5,Fog,5.3,Highway,Night,38
+40.823789,-73.852926,New York,NY,2024-09-18,13:41:47,Major,-1.4,Clear,4.2,Urban Road,Night,57
+40.828767,-73.772685,New York,NY,2024-11-19,12:38:35,Major,30.5,Cloudy,2.3,Highway,Night,42
+40.792353,-73.736687,New York,NY,2024-03-26,07:26:44,Fatal,30.3,Clear,0.6,Intersection,Night,40
+40.544589,-73.952118,New York,NY,2024-03-20,07:12:47,Minor,4.3,Clear,8.1,Intersection,Dawn,37
+40.792641,-74.187989,New York,NY,2024-10-03,08:56:51,Fatal,-4.1,Snow,2.8,Highway,Daylight,52
+40.860263,-73.960107,New York,NY,2024-03-14,16:27:23,Major,24.4,Clear,8.0,Intersection,Dawn,65
+40.678451,-73.789894,New York,NY,2024-04-09,14:23:25,Major,16.2,Clear,3.8,Intersection,Night,70
+40.545685,-74.106295,New York,NY,2024-08-20,04:49:10,Major,22.4,Clear,9.8,Residential Street,Dawn,47
+40.517516,-73.781186,New York,NY,2024-05-04,17:50:26,Fatal,25.5,Snow,9.8,Intersection,Dusk,59
+40.771965,-73.753058,New York,NY,2024-03-09,10:07:12,Major,1.7,Rain,7.7,Urban Road,Daylight,59
+40.846541,-73.738516,New York,NY,2024-07-30,21:31:03,Major,29.5,Cloudy,5.3,Intersection,Night,57
+40.549994,-73.889663,New York,NY,2024-05-07,01:39:27,Fatal,24.5,Cloudy,5.1,Urban Road,Night,30
+40.765317,-73.847091,New York,NY,2024-01-09,17:01:37,Major,14.3,Rain,3.6,Residential Street,Dusk,39
+40.744361,-74.198986,New York,NY,2024-09-07,13:58:47,Major,14.3,Rain,3.6,Urban Road,Night,37
+40.690122,-73.794099,New York,NY,2024-04-30,17:25:20,Minor,-1.5,Clear,4.5,Intersection,Daylight,33
+40.800666,-73.813587,New York,NY,2024-06-10,16:53:36,Fatal,18.8,Fog,3.2,Highway,Night,43
+40.533789,-73.929359,New York,NY,2024-08-12,04:05:07,Major,16.5,Clear,0.4,Urban Road,Daylight,31
+40.749306,-73.984187,New York,NY,2024-02-17,22:05:58,Major,2.7,Clear,6.0,Residential Street,Dawn,68
+40.543926,-73.941075,New York,NY,2024-03-21,05:19:45,Major,16.9,Fog,4.6,Residential Street,Dawn,57
+40.857254,-73.929286,New York,NY,2024-12-25,19:27:54,Major,-3.2,Snow,5.1,Urban Road,Night,50
+40.727289,-73.946438,New York,NY,2024-05-22,07:56:00,Fatal,3.5,Snow,8.6,Residential Street,Dusk,35
+40.672685,-73.870207,New York,NY,2024-02-29,20:46:39,Major,-3.5,Rain,4.5,Residential Street,Night,45
+40.507462,-73.916503,New York,NY,2024-07-27,13:12:30,Minor,18.0,Fog,5.6,Intersection,Daylight,55
+40.70343,-73.958328,New York,NY,2024-05-03,20:48:27,Major,3.2,Fog,2.5,Residential Street,Daylight,42
+40.899291,-73.70593,New York,NY,2024-09-10,11:05:16,Minor,32.5,Rain,2.1,Residential Street,Dawn,30
+40.508342,-73.767883,New York,NY,2024-02-03,20:42:12,Fatal,14.2,Snow,6.3,Highway,Dawn,52
+40.660607,-74.135802,New York,NY,2024-01-15,20:21:34,Fatal,17.1,Cloudy,2.5,Highway,Daylight,37
+40.800399,-74.162393,New York,NY,2024-03-18,17:55:08,Major,12.0,Rain,8.4,Intersection,Dusk,56
+40.649687,-73.994719,New York,NY,2024-07-06,16:31:22,Minor,-3.6,Rain,7.4,Intersection,Dawn,61
+40.856682,-73.927603,New York,NY,2024-12-20,17:52:18,Fatal,20.3,Fog,0.5,Urban Road,Night,54
+40.846228,-73.834533,New York,NY,2024-04-09,02:10:39,Fatal,11.7,Fog,7.6,Intersection,Night,38
+40.67711,-73.721339,New York,NY,2024-09-28,21:42:56,Major,28.9,Snow,5.9,Intersection,Daylight,48
+40.609634,-73.736176,New York,NY,2024-05-15,03:21:41,Fatal,16.2,Snow,7.6,Intersection,Daylight,62
+40.620387,-74.029582,New York,NY,2024-10-09,07:23:00,Major,0.7,Clear,3.7,Urban Road,Dusk,46
+40.602746,-74.196457,New York,NY,2024-12-05,11:22:54,Major,21.5,Rain,3.9,Intersection,Daylight,67
+40.57873,-74.115183,New York,NY,2024-09-07,16:54:59,Fatal,19.9,Cloudy,7.8,Intersection,Dusk,48
+40.893903,-73.94356,New York,NY,2024-09-09,05:38:44,Major,9.4,Fog,5.1,Residential Street,Dawn,68
+40.548841,-73.772604,New York,NY,2024-10-10,11:56:11,Major,29.9,Cloudy,1.1,Residential Street,Night,37
+40.560091,-73.745257,New York,NY,2024-05-10,08:48:33,Fatal,25.3,Rain,8.8,Urban Road,Night,58
+40.523553,-73.901026,New York,NY,2024-06-01,20:12:25,Major,8.3,Clear,7.6,Intersection,Daylight,69
+40.672729,-73.757433,New York,NY,2024-07-07,20:17:42,Minor,29.3,Fog,4.9,Residential Street,Dawn,47
+40.789073,-73.96873,New York,NY,2024-03-04,21:57:40,Minor,26.5,Cloudy,2.6,Urban Road,Dusk,53
+40.756068,-73.818336,New York,NY,2024-06-14,01:49:00,Major,9.6,Snow,0.9,Urban Road,Daylight,54
+40.636959,-73.96521,New York,NY,2024-06-12,16:04:47,Minor,5.6,Clear,7.1,Urban Road,Daylight,51
+40.542845,-73.936442,New York,NY,2024-03-04,22:18:53,Fatal,34.6,Clear,0.8,Residential Street,Daylight,57
+40.867052,-73.740631,New York,NY,2024-10-08,19:05:19,Major,27.1,Rain,6.9,Highway,Night,40
+40.839653,-73.788338,New York,NY,2024-10-08,09:26:58,Major,22.6,Rain,2.6,Urban Road,Dusk,50
+40.63524,-73.732367,New York,NY,2024-01-13,18:14:56,Minor,27.1,Snow,3.2,Residential Street,Daylight,60
+40.83401,-74.168825,New York,NY,2024-01-07,15:17:00,Fatal,34.6,Snow,8.7,Intersection,Daylight,63
+40.685401,-73.894421,New York,NY,2024-02-04,18:30:48,Major,23.1,Fog,7.6,Highway,Night,56
+40.608095,-74.039863,New York,NY,2024-10-11,21:37:27,Major,7.9,Cloudy,0.8,Highway,Daylight,36
+40.88644,-74.006684,New York,NY,2024-10-19,04:18:14,Minor,28.8,Fog,9.0,Urban Road,Dawn,57
+40.833224,-73.700048,New York,NY,2024-06-14,17:24:09,Fatal,26.1,Snow,4.1,Residential Street,Dusk,33
+40.612671,-73.776145,New York,NY,2024-03-04,02:40:15,Major,20.5,Clear,5.1,Urban Road,Dusk,48
+40.537724,-74.030766,New York,NY,2024-10-27,04:51:10,Major,21.5,Cloudy,6.2,Intersection,Daylight,63
+40.806013,-73.888475,New York,NY,2024-01-12,16:28:41,Fatal,8.2,Fog,8.4,Urban Road,Dusk,31
+40.745116,-73.941568,New York,NY,2024-11-22,23:22:01,Fatal,32.8,Rain,5.3,Intersection,Night,52
+40.75622,-74.03164,New York,NY,2024-11-30,04:48:34,Minor,33.4,Cloudy,1.4,Urban Road,Dusk,65
+40.843756,-73.768832,New York,NY,2024-04-22,11:37:57,Minor,17.7,Clear,5.3,Residential Street,Dawn,35
+40.749072,-73.926961,New York,NY,2024-01-20,15:43:46,Fatal,19.6,Snow,2.9,Residential Street,Night,36
+40.890443,-73.742759,New York,NY,2024-07-16,05:29:14,Minor,24.5,Clear,3.8,Residential Street,Daylight,45
+40.873313,-73.869815,New York,NY,2024-08-19,15:59:57,Fatal,27.1,Cloudy,5.6,Urban Road,Dawn,55
+40.670638,-73.759654,New York,NY,2024-04-17,05:43:11,Major,1.1,Rain,3.1,Highway,Daylight,33
+40.757901,-74.015509,New York,NY,2024-07-16,20:05:12,Major,22.0,Fog,7.7,Intersection,Dusk,37
+40.565616,-73.838057,New York,NY,2024-12-02,20:50:31,Minor,12.1,Snow,3.3,Residential Street,Night,40
+40.629991,-73.839939,New York,NY,2024-11-11,21:45:36,Major,13.6,Fog,3.8,Highway,Night,49
+40.862696,-73.910635,New York,NY,2024-09-30,17:12:59,Minor,24.7,Clear,8.2,Residential Street,Dawn,62
+40.898564,-73.744705,New York,NY,2024-10-03,15:40:39,Major,17.1,Snow,1.7,Residential Street,Dawn,46
+40.635719,-73.973968,New York,NY,2024-11-23,18:28:56,Minor,16.3,Cloudy,6.1,Highway,Daylight,63
+40.815101,-74.047211,New York,NY,2024-08-26,20:50:08,Minor,10.2,Snow,3.0,Residential Street,Dusk,30
+40.660904,-73.878137,New York,NY,2024-05-12,20:11:52,Fatal,23.5,Clear,4.3,Residential Street,Dawn,64
+40.5309,-73.771814,New York,NY,2024-05-08,05:09:05,Minor,11.1,Rain,2.2,Highway,Dusk,57
+40.691301,-74.081354,New York,NY,2024-09-19,18:31:41,Major,8.4,Fog,7.7,Highway,Daylight,57
+40.884146,-73.994654,New York,NY,2024-12-02,15:27:07,Minor,10.6,Clear,9.5,Residential Street,Daylight,57
+40.750104,-74.198742,New York,NY,2024-08-03,11:35:41,Fatal,8.2,Clear,8.0,Intersection,Daylight,33
+40.777475,-73.826105,New York,NY,2024-08-10,13:30:06,Minor,24.3,Cloudy,7.3,Residential Street,Dawn,39
+40.681996,-74.033412,New York,NY,2024-03-14,04:48:52,Fatal,22.7,Rain,5.1,Residential Street,Dusk,35
+40.558201,-73.706902,New York,NY,2024-01-28,03:37:41,Major,6.0,Rain,5.2,Urban Road,Dawn,68
+40.594591,-73.879007,New York,NY,2024-02-17,16:43:30,Fatal,-4.5,Clear,3.3,Residential Street,Dawn,70
+40.583969,-73.790898,New York,NY,2024-02-09,04:18:47,Minor,26.7,Fog,9.6,Intersection,Dusk,62
+40.704644,-74.198532,New York,NY,2024-01-22,03:48:54,Minor,4.3,Fog,0.5,Highway,Night,57
+40.616176,-73.900452,New York,NY,2024-01-08,12:52:32,Fatal,9.9,Fog,9.9,Intersection,Dawn,57
+40.648872,-74.010668,New York,NY,2024-12-03,12:31:07,Minor,9.1,Clear,4.4,Highway,Dusk,59
+40.632547,-74.168621,New York,NY,2024-01-23,08:43:39,Major,-2.6,Cloudy,2.1,Residential Street,Daylight,41
+40.88133,-74.178755,New York,NY,2024-10-09,19:34:31,Fatal,5.6,Clear,4.5,Intersection,Night,58
+40.577205,-73.75676,New York,NY,2024-07-31,04:44:29,Major,24.6,Rain,4.5,Residential Street,Dusk,59
+40.820799,-74.010986,New York,NY,2024-12-04,11:08:00,Minor,1.0,Clear,5.4,Urban Road,Daylight,50
+40.884472,-74.173709,New York,NY,2024-12-26,10:53:39,Fatal,21.7,Clear,6.8,Highway,Dusk,61
+40.678172,-73.958992,New York,NY,2024-10-04,14:02:05,Fatal,4.4,Cloudy,9.7,Highway,Daylight,46
+40.599824,-73.780678,New York,NY,2024-06-16,03:44:05,Fatal,31.3,Snow,9.9,Intersection,Dusk,54
+40.736237,-73.906739,New York,NY,2024-03-14,19:45:37,Minor,3.6,Fog,7.2,Urban Road,Dawn,57
+40.532092,-73.826459,New York,NY,2024-09-18,14:39:22,Major,14.3,Cloudy,5.8,Urban Road,Dawn,43
+40.850598,-74.104811,New York,NY,2024-07-28,20:10:35,Minor,27.1,Snow,6.2,Intersection,Daylight,55
+40.652342,-73.90507,New York,NY,2024-12-05,04:57:04,Minor,-3.3,Fog,5.5,Residential Street,Daylight,49
+40.662411,-73.711408,New York,NY,2024-12-04,06:34:38,Fatal,-0.6,Snow,2.1,Intersection,Daylight,41
+40.5499,-73.819088,New York,NY,2024-11-09,02:55:19,Fatal,17.7,Rain,1.0,Residential Street,Dusk,32
+40.585713,-74.092803,New York,NY,2024-05-18,22:33:01,Major,19.9,Rain,8.3,Highway,Dusk,53
+40.888745,-74.037594,New York,NY,2024-11-01,19:24:40,Minor,23.5,Snow,0.0,Intersection,Night,49
+40.696617,-73.920506,New York,NY,2024-07-28,15:20:34,Major,22.5,Snow,1.9,Residential Street,Night,64
+40.848418,-73.92572,New York,NY,2024-08-27,20:28:00,Major,9.7,Cloudy,2.4,Highway,Night,58
+40.548198,-73.882914,New York,NY,2024-06-20,17:17:45,Major,4.2,Snow,8.0,Residential Street,Daylight,45
+40.582283,-73.82716,New York,NY,2024-06-28,15:05:07,Major,7.3,Cloudy,3.8,Residential Street,Dawn,49
+40.6524,-73.935603,New York,NY,2024-06-09,05:29:35,Major,1.7,Fog,1.3,Highway,Dawn,70
+40.773323,-73.859217,New York,NY,2024-12-13,08:53:39,Major,17.6,Rain,7.2,Intersection,Dawn,32
+40.69352,-73.907592,New York,NY,2024-02-14,14:45:41,Minor,2.4,Clear,8.3,Intersection,Dawn,50
+40.840164,-73.826256,New York,NY,2024-01-30,08:23:45,Minor,22.0,Cloudy,0.2,Intersection,Dawn,32
+40.811136,-74.147402,New York,NY,2024-06-19,15:44:17,Fatal,-0.4,Rain,1.7,Highway,Dawn,50
+40.645439,-73.753645,New York,NY,2024-12-30,02:13:38,Minor,7.1,Snow,4.3,Highway,Daylight,31
+40.628264,-73.879383,New York,NY,2024-05-29,03:38:12,Minor,-4.8,Clear,6.6,Intersection,Dawn,37
+40.765353,-73.757993,New York,NY,2024-07-19,11:23:32,Fatal,-1.7,Cloudy,9.6,Urban Road,Night,58
+40.546404,-73.972296,New York,NY,2024-10-23,19:03:50,Major,24.3,Fog,5.6,Urban Road,Night,34
+40.669366,-74.062541,New York,NY,2024-11-02,14:22:10,Major,15.4,Cloudy,1.0,Intersection,Dusk,31
+40.50033,-73.772628,New York,NY,2024-06-20,06:44:13,Minor,-4.8,Snow,2.9,Urban Road,Dawn,69
+40.520866,-73.867704,New York,NY,2024-09-11,05:41:02,Minor,18.8,Clear,3.3,Highway,Night,49
+40.649973,-73.731496,New York,NY,2024-12-07,22:01:18,Major,25.3,Clear,3.3,Highway,Night,49
+40.8578,-73.76887,New York,NY,2024-10-01,18:02:37,Fatal,-0.1,Snow,3.8,Residential Street,Night,44
+40.735794,-73.89804,New York,NY,2024-09-27,08:01:43,Fatal,34.6,Rain,4.5,Residential Street,Night,66
+40.710304,-73.983369,New York,NY,2024-04-27,08:34:27,Major,30.5,Fog,0.3,Intersection,Dawn,51
+40.871757,-73.877765,New York,NY,2024-04-12,17:50:30,Fatal,7.9,Fog,9.8,Highway,Daylight,58
+40.834346,-73.984747,New York,NY,2024-05-05,10:18:09,Minor,19.1,Snow,1.2,Urban Road,Dawn,37
+40.640163,-74.001504,New York,NY,2024-05-09,19:51:17,Minor,23.8,Clear,5.7,Residential Street,Dusk,56
+40.709967,-74.059446,New York,NY,2024-01-20,17:44:59,Minor,16.2,Snow,4.0,Urban Road,Night,35
+40.725565,-73.965761,New York,NY,2024-07-21,18:12:51,Major,-2.3,Clear,8.0,Residential Street,Daylight,66
+40.755839,-73.966844,New York,NY,2024-11-26,21:01:02,Fatal,26.4,Clear,5.8,Urban Road,Dusk,59
+40.841751,-73.960102,New York,NY,2024-08-12,21:00:35,Fatal,33.1,Fog,7.1,Urban Road,Night,41
+40.77345,-73.85138,New York,NY,2024-05-05,13:26:52,Major,32.8,Cloudy,8.8,Urban Road,Night,30
+40.622887,-74.080155,New York,NY,2024-06-15,22:01:39,Major,25.0,Fog,6.8,Residential Street,Dusk,59
+40.723471,-74.150886,New York,NY,2024-04-12,18:28:55,Major,13.9,Fog,7.8,Intersection,Dawn,65
+40.67552,-74.128662,New York,NY,2024-09-12,10:41:54,Fatal,15.9,Fog,1.9,Highway,Daylight,30
+40.615781,-74.039589,New York,NY,2024-01-13,01:55:26,Fatal,19.4,Rain,0.6,Highway,Night,36
+40.654587,-73.994314,New York,NY,2024-05-08,13:59:59,Minor,22.1,Cloudy,5.2,Residential Street,Dusk,58
+40.564053,-74.177589,New York,NY,2024-03-22,09:20:18,Major,14.8,Snow,1.7,Highway,Dusk,66
+40.568145,-74.168344,New York,NY,2024-11-05,13:26:35,Major,12.6,Cloudy,2.3,Residential Street,Night,39
+40.567145,-74.016943,New York,NY,2024-09-29,10:32:43,Fatal,32.6,Clear,8.2,Intersection,Night,63
+40.833522,-74.182033,New York,NY,2024-01-10,12:44:05,Fatal,20.5,Clear,8.4,Urban Road,Dusk,51
+40.633192,-73.991573,New York,NY,2024-08-11,10:42:10,Fatal,14.5,Clear,4.6,Highway,Night,63
+40.628276,-74.188957,New York,NY,2024-10-29,03:19:55,Minor,24.6,Snow,0.1,Urban Road,Night,57
+40.709856,-74.137293,New York,NY,2024-03-30,09:16:13,Major,14.9,Snow,8.2,Highway,Daylight,60
+40.720941,-73.882333,New York,NY,2024-08-29,23:52:58,Minor,19.0,Fog,3.5,Residential Street,Night,45
+40.820426,-73.856774,New York,NY,2024-12-30,17:53:49,Minor,28.6,Cloudy,0.6,Highway,Dawn,32
+40.739191,-74.037914,New York,NY,2024-10-03,18:05:01,Fatal,17.7,Cloudy,1.3,Urban Road,Daylight,59
+40.637248,-73.901814,New York,NY,2024-07-06,14:41:14,Minor,-3.0,Snow,5.5,Intersection,Dawn,57
+40.555461,-74.138296,New York,NY,2024-05-15,08:00:14,Fatal,5.6,Snow,3.3,Intersection,Daylight,63
+40.62649,-74.124718,New York,NY,2024-03-05,07:18:39,Minor,19.7,Snow,2.0,Intersection,Dawn,38
+40.870717,-73.772675,New York,NY,2024-07-14,17:34:24,Major,-3.5,Cloudy,7.7,Urban Road,Dawn,40
+40.692107,-73.867121,New York,NY,2024-03-08,09:44:54,Major,22.1,Cloudy,6.3,Highway,Dawn,39
+40.576731,-73.97716,New York,NY,2024-12-15,09:00:38,Major,25.5,Cloudy,2.1,Urban Road,Night,63
+40.829297,-74.061558,New York,NY,2024-04-25,09:58:12,Fatal,6.4,Clear,2.3,Highway,Daylight,36
+40.572716,-73.917836,New York,NY,2024-08-24,23:15:10,Minor,11.2,Snow,7.3,Residential Street,Dusk,40
+40.881567,-73.713124,New York,NY,2024-05-12,06:45:00,Major,13.9,Cloudy,0.4,Intersection,Dusk,65
+40.622657,-74.180263,New York,NY,2024-04-11,07:59:30,Major,33.3,Snow,6.4,Urban Road,Night,40
+40.625618,-73.981257,New York,NY,2024-06-19,04:00:27,Major,17.4,Rain,4.4,Intersection,Night,69
+40.526566,-73.86508,New York,NY,2024-10-07,19:40:06,Fatal,6.8,Snow,3.9,Residential Street,Daylight,57
+40.709693,-73.910989,New York,NY,2024-08-08,12:39:42,Major,-0.9,Fog,9.2,Urban Road,Dusk,46
+40.738631,-73.987814,New York,NY,2024-02-14,17:06:30,Major,29.2,Clear,4.9,Highway,Dawn,51
+40.554279,-73.874169,New York,NY,2024-01-02,14:20:14,Fatal,9.8,Cloudy,2.6,Intersection,Dawn,66
+40.557731,-73.721287,New York,NY,2024-12-21,10:01:35,Fatal,18.5,Rain,7.2,Intersection,Daylight,43
+40.65081,-74.140634,New York,NY,2024-03-01,04:30:11,Fatal,6.4,Fog,6.0,Highway,Daylight,36
+40.744708,-73.867306,New York,NY,2024-10-24,19:58:59,Fatal,27.3,Cloudy,5.9,Urban Road,Dusk,52
+40.860416,-73.982971,New York,NY,2024-11-15,21:55:01,Major,26.9,Snow,7.8,Residential Street,Daylight,35
+40.634619,-74.025016,New York,NY,2024-07-16,16:24:20,Major,5.8,Fog,5.5,Intersection,Dusk,38
+40.582529,-73.708603,New York,NY,2024-11-05,16:25:23,Minor,5.7,Cloudy,7.3,Intersection,Daylight,59
+40.737473,-74.128356,New York,NY,2024-06-26,03:30:52,Minor,29.3,Fog,10.0,Urban Road,Night,68
+40.605864,-73.935581,New York,NY,2024-11-26,21:13:29,Major,5.3,Cloudy,8.9,Residential Street,Dusk,59
+40.833601,-74.047234,New York,NY,2024-09-17,15:32:47,Minor,21.2,Fog,6.7,Highway,Dawn,37
+40.754881,-74.019267,New York,NY,2024-01-19,22:19:10,Fatal,1.6,Fog,1.3,Urban Road,Dawn,59
+40.891134,-74.009442,New York,NY,2024-08-30,09:55:01,Minor,34.9,Cloudy,1.3,Residential Street,Night,55
+40.682355,-73.894861,New York,NY,2024-12-13,07:10:50,Fatal,2.8,Snow,0.8,Intersection,Dusk,59
+40.59279,-73.838479,New York,NY,2024-07-05,18:13:40,Major,15.1,Cloudy,7.7,Residential Street,Dawn,43
+40.780051,-74.13569,New York,NY,2024-03-18,17:39:51,Minor,7.4,Rain,9.8,Intersection,Dusk,38
+40.511215,-74.065853,New York,NY,2024-06-16,17:57:07,Major,33.1,Clear,9.6,Intersection,Daylight,53
+40.760293,-74.004522,New York,NY,2024-11-05,14:21:22,Fatal,32.2,Cloudy,3.2,Residential Street,Daylight,57
+40.583609,-73.974509,New York,NY,2024-07-16,10:45:31,Major,12.7,Rain,5.3,Intersection,Night,34
+40.890955,-73.829667,New York,NY,2024-12-18,19:54:48,Fatal,31.5,Snow,7.3,Residential Street,Daylight,35
+40.60501,-73.960623,New York,NY,2024-08-12,22:35:58,Fatal,15.0,Snow,3.5,Intersection,Dawn,37
+40.569619,-73.824612,New York,NY,2024-03-22,15:07:15,Fatal,32.5,Fog,6.9,Residential Street,Night,58
+40.547636,-74.176376,New York,NY,2024-09-01,20:33:15,Major,18.9,Fog,7.9,Intersection,Dusk,52
+40.687097,-73.958689,New York,NY,2024-10-30,05:36:11,Major,9.3,Snow,0.1,Highway,Dusk,70
+40.753173,-74.057904,New York,NY,2024-07-15,16:54:04,Fatal,-1.8,Clear,3.2,Intersection,Dawn,33
+40.827271,-73.909944,New York,NY,2024-07-07,02:51:44,Fatal,4.0,Clear,2.7,Highway,Night,65
+40.880179,-73.73249,New York,NY,2024-03-06,23:42:52,Minor,4.1,Rain,9.7,Residential Street,Dawn,37
+40.748782,-74.057336,New York,NY,2024-11-21,00:38:15,Major,34.8,Fog,1.5,Highway,Dusk,39
+40.689485,-74.03309,New York,NY,2024-06-21,16:32:51,Minor,14.5,Fog,3.3,Urban Road,Daylight,70
+40.865158,-73.802027,New York,NY,2024-03-08,07:35:46,Fatal,33.5,Fog,8.0,Urban Road,Daylight,42
+40.681875,-73.846554,New York,NY,2024-12-03,15:56:11,Fatal,19.8,Rain,0.7,Urban Road,Dusk,69
+40.611333,-74.133667,New York,NY,2024-03-10,06:37:03,Minor,20.2,Cloudy,5.1,Residential Street,Dusk,51
+40.884267,-73.758526,New York,NY,2024-12-03,14:20:02,Fatal,6.7,Snow,8.2,Residential Street,Dusk,38
+40.530116,-74.010775,New York,NY,2024-05-03,01:51:10,Minor,5.8,Cloudy,9.7,Residential Street,Dawn,64
+40.533397,-74.035803,New York,NY,2024-05-16,20:01:02,Fatal,-0.1,Clear,5.9,Residential Street,Dawn,31
+40.834307,-73.728977,New York,NY,2024-06-21,20:30:32,Minor,1.4,Clear,1.3,Urban Road,Dusk,52
+40.584157,-73.85425,New York,NY,2024-10-27,10:20:39,Fatal,33.4,Rain,9.1,Intersection,Dawn,55
+40.59844,-73.86668,New York,NY,2024-11-19,01:01:15,Minor,-4.0,Clear,8.4,Residential Street,Night,58
+40.596907,-74.16193,New York,NY,2024-01-09,16:56:03,Major,14.2,Rain,0.3,Highway,Dusk,52
+40.893977,-74.164623,New York,NY,2024-07-03,06:11:31,Minor,12.3,Snow,7.2,Highway,Daylight,55
+40.563588,-73.781575,New York,NY,2024-02-08,09:10:05,Fatal,26.0,Clear,8.1,Residential Street,Dusk,31
+40.800569,-73.803707,New York,NY,2024-07-05,15:02:34,Major,18.4,Cloudy,1.8,Urban Road,Night,68
+40.750451,-73.738512,New York,NY,2024-02-05,16:11:43,Major,18.1,Rain,6.0,Residential Street,Dawn,40
+40.826166,-73.887175,New York,NY,2024-02-13,14:39:22,Major,-0.5,Rain,0.1,Intersection,Dusk,69
+40.696103,-73.906991,New York,NY,2024-08-24,13:18:57,Minor,19.5,Clear,9.4,Residential Street,Night,47
+40.877259,-73.764193,New York,NY,2024-09-14,15:13:47,Major,15.7,Cloudy,5.6,Intersection,Night,51
+40.793625,-74.040183,New York,NY,2024-08-10,10:24:27,Fatal,32.6,Clear,0.6,Residential Street,Dawn,52
+40.837735,-74.040255,New York,NY,2024-06-05,06:22:21,Minor,19.7,Clear,4.8,Urban Road,Dawn,50
+40.844938,-73.809285,New York,NY,2024-10-29,03:42:56,Major,22.4,Snow,7.3,Residential Street,Daylight,46
+40.798728,-74.101098,New York,NY,2024-11-15,18:43:18,Fatal,20.2,Clear,3.3,Intersection,Dusk,55
+40.773542,-73.751204,New York,NY,2024-09-05,17:36:31,Minor,-4.9,Rain,4.7,Intersection,Night,68
+40.771808,-73.99915,New York,NY,2024-10-15,08:49:31,Major,28.0,Snow,6.1,Highway,Dusk,60
+40.692082,-74.056388,New York,NY,2024-08-03,20:59:11,Fatal,28.1,Fog,2.1,Intersection,Dusk,35
+40.643477,-73.701954,New York,NY,2024-05-05,05:38:22,Fatal,32.5,Cloudy,7.1,Urban Road,Dawn,65
+40.81259,-73.719116,New York,NY,2024-11-06,21:35:02,Fatal,27.5,Clear,7.1,Intersection,Night,68
+40.709073,-73.988734,New York,NY,2024-03-02,09:56:21,Minor,24.9,Snow,2.3,Intersection,Dusk,53
+40.593986,-74.166401,New York,NY,2024-09-29,00:45:36,Minor,16.7,Fog,6.2,Highway,Night,31
+40.540607,-74.038303,New York,NY,2024-07-01,22:07:37,Fatal,11.4,Snow,2.2,Urban Road,Daylight,34
+40.724324,-73.98195,New York,NY,2024-03-13,15:50:24,Minor,3.8,Fog,2.8,Urban Road,Dawn,44
+40.706833,-73.73459,New York,NY,2024-01-11,20:41:05,Major,20.0,Clear,0.9,Urban Road,Daylight,63
+40.567355,-73.805785,New York,NY,2024-08-18,16:51:51,Major,-1.3,Clear,0.5,Residential Street,Dusk,44
+40.809922,-73.725066,New York,NY,2024-05-22,22:54:02,Fatal,19.6,Clear,3.9,Highway,Dusk,40
+40.746833,-73.97849,New York,NY,2024-06-11,17:31:33,Minor,17.4,Rain,7.0,Intersection,Dawn,40
+40.815419,-73.709787,New York,NY,2024-08-18,03:47:16,Minor,13.1,Cloudy,5.1,Intersection,Daylight,33
+40.769367,-73.837124,New York,NY,2024-04-18,01:53:37,Major,34.1,Cloudy,4.8,Residential Street,Daylight,57
+40.811985,-73.905386,New York,NY,2024-04-12,16:02:00,Fatal,-3.5,Rain,1.1,Intersection,Dawn,37
+40.846967,-73.768608,New York,NY,2024-02-07,08:09:37,Minor,6.3,Fog,8.9,Highway,Night,32
+40.687008,-73.751702,New York,NY,2024-01-27,10:01:59,Major,20.7,Clear,8.3,Urban Road,Daylight,40
+40.663457,-73.929081,New York,NY,2024-01-13,14:09:03,Fatal,25.9,Clear,7.3,Urban Road,Dawn,45
+40.880317,-74.112274,New York,NY,2024-04-29,18:51:06,Minor,1.4,Snow,3.0,Urban Road,Daylight,64
+40.816419,-73.927015,New York,NY,2024-12-14,07:14:02,Major,8.8,Fog,8.1,Urban Road,Dawn,36
+40.883449,-74.108576,New York,NY,2024-03-27,03:46:48,Fatal,30.6,Fog,8.9,Urban Road,Night,52
+40.50813,-73.924479,New York,NY,2024-01-07,05:19:44,Major,0.5,Snow,6.1,Residential Street,Daylight,53
+40.523068,-73.718996,New York,NY,2024-11-02,21:37:10,Major,4.5,Snow,4.8,Intersection,Daylight,53
+40.547658,-74.11034,New York,NY,2024-01-03,10:05:55,Major,-1.7,Snow,5.6,Residential Street,Dawn,62
+40.682627,-74.163766,New York,NY,2024-09-08,01:46:50,Major,1.5,Fog,9.0,Urban Road,Dusk,54
+40.673045,-73.844928,New York,NY,2024-02-19,12:37:30,Major,2.9,Snow,7.0,Highway,Night,68
+40.63224,-73.758252,New York,NY,2024-12-23,21:35:51,Fatal,0.4,Cloudy,4.7,Highway,Daylight,43
+40.803127,-73.803137,New York,NY,2024-01-26,01:45:49,Minor,25.4,Rain,3.6,Highway,Daylight,40
+40.530927,-74.017507,New York,NY,2024-07-01,05:03:57,Minor,-1.8,Clear,1.5,Intersection,Dawn,58
+40.838496,-73.704075,New York,NY,2024-12-23,15:58:12,Major,31.3,Fog,1.0,Residential Street,Dawn,68
+40.576387,-73.776899,New York,NY,2024-03-31,21:59:35,Minor,8.6,Clear,1.7,Highway,Dusk,54
+40.82253,-74.175765,New York,NY,2024-12-14,06:34:30,Minor,11.4,Rain,6.6,Urban Road,Dusk,65
+40.6661,-73.78138,New York,NY,2024-12-21,21:55:12,Major,8.7,Cloudy,2.0,Residential Street,Night,41
+40.560126,-74.178145,New York,NY,2024-07-19,23:13:50,Major,31.0,Fog,4.2,Intersection,Dusk,53
+40.611858,-73.746532,New York,NY,2024-11-24,04:18:26,Fatal,8.8,Snow,1.5,Urban Road,Dawn,58
+40.529227,-74.159357,New York,NY,2024-02-17,15:20:03,Major,-3.3,Clear,6.6,Intersection,Night,51
+40.652237,-74.101426,New York,NY,2024-07-05,09:03:54,Fatal,15.9,Snow,5.2,Residential Street,Dusk,56
+40.504033,-73.838673,New York,NY,2024-09-15,11:35:35,Fatal,-2.7,Rain,8.7,Urban Road,Dawn,43
+40.815912,-73.715446,New York,NY,2024-07-11,13:32:24,Major,10.1,Clear,2.4,Urban Road,Night,65
+40.588758,-74.04213,New York,NY,2024-08-28,20:09:54,Major,-3.3,Fog,4.9,Highway,Daylight,44
+40.727394,-73.710732,New York,NY,2024-12-25,09:43:04,Major,29.8,Clear,0.8,Residential Street,Dawn,37
+40.796878,-73.842313,New York,NY,2024-06-20,00:06:22,Minor,32.9,Fog,1.2,Urban Road,Night,46
+40.59218,-73.794374,New York,NY,2024-08-10,18:03:20,Fatal,34.6,Fog,3.2,Residential Street,Night,34
+40.852317,-73.935939,New York,NY,2024-09-30,16:06:09,Minor,29.3,Snow,5.6,Residential Street,Night,31
+40.53344,-73.778641,New York,NY,2024-07-07,00:22:04,Major,20.3,Snow,6.1,Residential Street,Daylight,66
+40.504767,-73.879618,New York,NY,2024-12-29,13:18:01,Minor,8.0,Cloudy,7.2,Intersection,Daylight,56
+40.872536,-73.788409,New York,NY,2024-10-11,03:42:31,Major,13.1,Rain,0.4,Urban Road,Night,47
+40.817634,-74.075568,New York,NY,2024-03-28,04:33:17,Major,34.3,Snow,2.8,Urban Road,Dusk,56
+40.873894,-73.84243,New York,NY,2024-07-06,15:03:44,Fatal,2.0,Snow,8.3,Urban Road,Daylight,69
+40.595164,-74.157537,New York,NY,2024-06-06,18:46:08,Major,5.2,Fog,5.7,Highway,Dusk,41
+40.818646,-73.766904,New York,NY,2024-06-14,13:29:28,Minor,23.3,Snow,5.6,Highway,Dusk,63
+40.502396,-74.097477,New York,NY,2024-12-15,14:30:36,Minor,14.0,Snow,4.5,Highway,Night,56
+40.59725,-73.781599,New York,NY,2024-06-30,06:39:45,Fatal,14.0,Fog,2.3,Urban Road,Daylight,38
+40.860778,-73.912003,New York,NY,2024-04-13,17:14:14,Major,1.3,Rain,9.4,Highway,Night,51
+40.508341,-73.959328,New York,NY,2024-11-16,11:24:37,Major,0.3,Fog,4.0,Urban Road,Dawn,68
+40.785648,-73.932402,New York,NY,2024-07-05,13:10:22,Major,12.9,Rain,9.7,Intersection,Dawn,65
+40.683577,-73.838472,New York,NY,2024-10-02,19:11:18,Minor,27.7,Snow,7.1,Intersection,Night,37
+40.583331,-73.713082,New York,NY,2024-03-23,04:41:52,Fatal,16.0,Snow,1.4,Residential Street,Dusk,64
+40.679066,-73.958695,New York,NY,2024-08-18,20:12:48,Major,-3.0,Rain,9.8,Urban Road,Daylight,54
+40.697233,-74.099917,New York,NY,2024-06-16,19:04:01,Major,9.6,Snow,3.0,Residential Street,Night,50
+40.657935,-74.046537,New York,NY,2024-01-10,07:17:02,Major,27.0,Clear,8.5,Urban Road,Daylight,44
+40.571254,-73.960958,New York,NY,2024-08-21,08:46:27,Major,12.9,Clear,9.0,Intersection,Night,36
+40.606055,-73.967632,New York,NY,2024-11-24,02:21:59,Minor,20.6,Fog,7.1,Intersection,Night,66
+40.739597,-73.900658,New York,NY,2024-01-30,09:22:02,Minor,13.7,Snow,4.9,Highway,Daylight,38
+40.837754,-74.022627,New York,NY,2024-08-20,23:27:58,Fatal,27.2,Snow,4.7,Intersection,Daylight,66
+40.77967,-73.706367,New York,NY,2024-09-06,20:44:35,Minor,0.9,Fog,5.6,Intersection,Dusk,49
+40.547576,-73.855018,New York,NY,2024-03-08,21:11:06,Fatal,3.7,Fog,2.5,Intersection,Daylight,66
+40.838138,-74.081648,New York,NY,2024-06-04,03:06:15,Major,16.3,Fog,6.2,Urban Road,Night,60
+40.788906,-74.082407,New York,NY,2024-07-25,04:20:42,Minor,-0.5,Fog,2.8,Residential Street,Dawn,45
+40.876132,-74.042643,New York,NY,2024-06-10,03:49:58,Minor,4.4,Cloudy,8.1,Residential Street,Daylight,52
+40.817788,-74.03561,New York,NY,2024-05-04,02:23:39,Major,-2.8,Fog,5.4,Urban Road,Daylight,58
+40.534871,-73.792529,New York,NY,2024-01-09,08:34:58,Minor,33.0,Snow,8.0,Residential Street,Daylight,58
+40.850575,-74.158249,New York,NY,2024-04-21,22:41:03,Fatal,17.7,Rain,3.6,Intersection,Dawn,59
+40.656375,-73.908376,New York,NY,2024-07-17,16:11:04,Minor,-1.0,Snow,1.9,Highway,Dusk,54
+40.679115,-73.962799,New York,NY,2024-02-23,09:54:15,Major,32.1,Fog,6.2,Highway,Dawn,34
+40.820443,-74.189739,New York,NY,2024-04-23,18:08:57,Minor,2.7,Clear,5.0,Residential Street,Night,64
+40.798305,-73.959517,New York,NY,2024-12-07,11:14:27,Major,0.6,Snow,5.3,Residential Street,Dawn,63
+40.641599,-74.040306,New York,NY,2024-06-14,09:59:27,Minor,21.6,Fog,2.8,Urban Road,Night,35
+40.814268,-73.80435,New York,NY,2024-11-13,05:38:25,Fatal,8.9,Fog,9.6,Intersection,Daylight,46
+40.860681,-73.829882,New York,NY,2024-10-10,16:58:05,Major,31.6,Fog,1.1,Urban Road,Night,56
+40.839579,-73.866247,New York,NY,2024-05-16,22:22:01,Minor,30.3,Clear,1.6,Highway,Dawn,53
+40.671141,-73.814622,New York,NY,2024-11-14,23:43:04,Major,29.1,Snow,9.9,Urban Road,Daylight,38
+40.544112,-73.72873,New York,NY,2024-08-05,19:01:14,Minor,32.1,Rain,8.0,Highway,Daylight,46
+40.872272,-73.830997,New York,NY,2024-03-13,19:23:58,Major,24.1,Fog,3.9,Urban Road,Dusk,63
+40.573925,-73.960436,New York,NY,2024-02-16,17:51:01,Fatal,9.2,Clear,7.5,Intersection,Daylight,55
+40.728611,-73.80305,New York,NY,2024-08-23,05:48:31,Major,20.7,Clear,9.7,Highway,Dawn,59
+40.730208,-73.971482,New York,NY,2024-05-16,23:01:21,Major,-4.6,Clear,8.6,Urban Road,Daylight,45
+40.873965,-73.819218,New York,NY,2024-10-17,07:06:35,Fatal,24.3,Clear,8.4,Highway,Dusk,31
+40.789857,-73.940701,New York,NY,2024-08-01,21:34:07,Fatal,29.6,Rain,3.8,Residential Street,Daylight,58
+40.610872,-73.848955,New York,NY,2024-07-30,07:47:06,Minor,23.3,Fog,0.4,Residential Street,Daylight,48
+40.855348,-73.762515,New York,NY,2024-09-06,23:17:59,Major,12.1,Snow,7.0,Urban Road,Daylight,39
+40.792342,-74.144858,New York,NY,2024-05-31,05:40:40,Minor,29.7,Rain,3.6,Residential Street,Dawn,38
+40.650323,-73.817598,New York,NY,2024-03-24,09:28:03,Fatal,12.3,Cloudy,2.1,Urban Road,Dusk,66
+40.632453,-74.007416,New York,NY,2024-12-12,16:14:10,Minor,13.8,Snow,8.5,Intersection,Dawn,33
+40.673203,-73.963665,New York,NY,2024-02-04,06:47:37,Major,5.2,Cloudy,4.8,Highway,Dusk,46
+40.637484,-73.885156,New York,NY,2024-06-23,08:01:17,Minor,30.0,Rain,8.0,Urban Road,Night,39
+40.877562,-73.806255,New York,NY,2024-11-27,00:16:29,Minor,-0.3,Clear,2.0,Highway,Night,40
+40.663607,-74.024138,New York,NY,2024-05-18,07:34:46,Major,25.0,Snow,6.9,Residential Street,Dusk,57
+40.542994,-74.111093,New York,NY,2024-07-30,03:12:13,Minor,32.5,Fog,7.6,Intersection,Dawn,42
+40.871617,-73.8737,New York,NY,2024-11-09,16:57:33,Major,-2.9,Rain,1.3,Residential Street,Night,48
+40.541384,-73.952314,New York,NY,2024-09-03,18:31:03,Minor,26.4,Snow,4.3,Intersection,Night,68
+40.656832,-74.008771,New York,NY,2024-01-19,13:40:38,Minor,26.0,Rain,5.7,Intersection,Dusk,62
+40.596476,-73.992472,New York,NY,2024-10-20,08:25:16,Minor,16.2,Clear,5.8,Urban Road,Daylight,62
+40.827665,-74.001561,New York,NY,2024-02-03,09:57:49,Major,12.7,Snow,3.3,Urban Road,Dusk,60
+40.672705,-73.861704,New York,NY,2024-03-02,01:00:02,Major,1.4,Snow,3.8,Highway,Dawn,32
+40.839741,-73.988286,New York,NY,2024-08-02,06:14:34,Major,32.5,Fog,5.6,Highway,Dusk,59
+40.547222,-73.923937,New York,NY,2024-03-06,21:07:23,Minor,14.9,Fog,3.2,Urban Road,Night,36
+40.720675,-74.146381,New York,NY,2024-08-12,08:16:33,Fatal,20.1,Fog,3.1,Highway,Dusk,40
+40.591355,-73.990519,New York,NY,2024-04-24,06:34:45,Fatal,5.6,Snow,4.7,Urban Road,Dusk,70
+40.854162,-73.994382,New York,NY,2024-07-12,15:28:16,Major,23.8,Fog,8.3,Highway,Daylight,52
+40.85272,-73.858834,New York,NY,2024-10-07,19:04:17,Minor,10.0,Clear,0.8,Residential Street,Dusk,70
+40.888639,-73.781594,New York,NY,2024-01-30,00:15:01,Fatal,28.5,Rain,6.7,Residential Street,Dusk,45
+40.580887,-73.892772,New York,NY,2024-10-31,06:03:31,Major,29.9,Cloudy,6.2,Residential Street,Daylight,67
+40.845512,-74.197343,New York,NY,2024-04-04,04:44:17,Minor,28.0,Rain,10.0,Intersection,Night,55
+40.874432,-74.009264,New York,NY,2024-02-06,23:59:32,Fatal,-2.0,Clear,1.3,Highway,Dusk,35
+40.839004,-73.936154,New York,NY,2024-02-17,08:46:02,Minor,-4.0,Clear,1.3,Highway,Dusk,67
+40.712434,-73.837433,New York,NY,2024-11-26,09:33:09,Major,0.8,Cloudy,5.4,Highway,Dawn,59
+40.560447,-73.793644,New York,NY,2024-02-15,18:39:02,Fatal,29.3,Cloudy,0.2,Residential Street,Dawn,50
+40.80238,-73.974918,New York,NY,2024-06-28,04:33:27,Fatal,-0.2,Fog,0.8,Residential Street,Dusk,45
+40.614119,-73.965752,New York,NY,2024-06-09,16:29:11,Minor,3.4,Snow,4.2,Intersection,Night,35
+40.633462,-73.756267,New York,NY,2024-02-23,20:07:39,Fatal,31.4,Cloudy,4.7,Residential Street,Night,33
+40.502125,-74.160256,New York,NY,2024-04-28,11:27:51,Minor,13.5,Snow,9.9,Urban Road,Dawn,46
+40.822558,-73.725412,New York,NY,2024-12-29,20:23:25,Fatal,-0.8,Snow,7.8,Urban Road,Night,46
+40.648645,-74.071401,New York,NY,2024-05-01,18:47:58,Fatal,11.3,Clear,7.9,Residential Street,Dawn,44
+40.683872,-73.733119,New York,NY,2024-10-02,00:59:23,Minor,14.0,Rain,7.9,Urban Road,Daylight,58
+40.515019,-73.909401,New York,NY,2024-11-24,14:56:01,Minor,22.0,Snow,4.2,Urban Road,Dawn,34
+40.892049,-73.950468,New York,NY,2024-10-01,16:13:39,Fatal,19.7,Cloudy,7.6,Residential Street,Night,43
+40.559734,-73.885982,New York,NY,2024-12-30,08:47:24,Major,18.8,Cloudy,8.6,Urban Road,Dawn,68
+40.727686,-74.048063,New York,NY,2024-05-01,22:28:52,Fatal,3.8,Clear,5.1,Urban Road,Daylight,70
+40.896976,-73.866135,New York,NY,2024-07-06,15:09:39,Major,25.8,Cloudy,9.7,Highway,Night,47
+40.568963,-74.106944,New York,NY,2024-10-04,05:53:06,Fatal,34.1,Clear,1.9,Urban Road,Dusk,58
+40.793957,-73.952569,New York,NY,2024-05-07,21:20:49,Fatal,0.7,Snow,8.3,Urban Road,Dawn,54
+40.723783,-73.978942,New York,NY,2024-08-14,19:22:47,Fatal,3.0,Clear,7.4,Residential Street,Daylight,69
+40.613383,-74.146101,New York,NY,2024-02-16,04:37:27,Major,3.2,Fog,4.6,Urban Road,Night,53
+40.529209,-73.797436,New York,NY,2024-12-26,08:44:11,Fatal,2.0,Fog,5.7,Urban Road,Dawn,34
+40.573926,-74.056221,New York,NY,2024-12-18,19:56:52,Major,15.7,Snow,1.7,Highway,Dawn,68
+40.802643,-73.927049,New York,NY,2024-10-10,11:11:15,Fatal,17.0,Rain,1.9,Intersection,Dawn,58
+40.61053,-74.17031,New York,NY,2024-03-30,05:43:31,Fatal,15.7,Fog,0.5,Urban Road,Dusk,54
+40.699859,-74.140082,New York,NY,2024-11-07,08:18:41,Major,28.8,Rain,0.9,Intersection,Daylight,59
+40.749165,-73.91563,New York,NY,2024-12-13,12:23:53,Major,-4.6,Fog,2.3,Highway,Dawn,46
+40.509053,-73.873383,New York,NY,2024-05-26,11:41:19,Fatal,3.7,Cloudy,7.3,Highway,Dawn,48
+40.791418,-74.02923,New York,NY,2024-01-08,12:48:29,Major,23.9,Clear,8.1,Residential Street,Night,45
+40.670758,-74.042074,New York,NY,2024-12-28,06:06:30,Fatal,3.7,Rain,8.0,Urban Road,Night,66
+40.799227,-73.951927,New York,NY,2024-08-09,22:26:46,Minor,17.0,Rain,5.9,Urban Road,Dusk,40
+40.517537,-73.799168,New York,NY,2024-03-17,22:15:18,Minor,30.7,Fog,1.5,Urban Road,Dusk,34
+40.760223,-74.017341,New York,NY,2024-03-31,22:20:24,Fatal,16.9,Clear,7.1,Highway,Night,54
+40.654797,-74.065496,New York,NY,2024-05-11,02:09:49,Major,26.0,Snow,2.3,Highway,Dawn,54
+40.834676,-74.181241,New York,NY,2024-04-02,05:46:30,Fatal,6.1,Cloudy,0.1,Urban Road,Daylight,55
+40.768719,-74.040927,New York,NY,2024-08-14,03:25:15,Minor,-2.4,Fog,2.8,Intersection,Dusk,45
+40.707358,-73.898184,New York,NY,2024-11-28,11:52:09,Fatal,5.0,Snow,6.7,Intersection,Night,44
+40.863606,-73.799992,New York,NY,2024-11-09,08:34:05,Minor,22.5,Cloudy,2.6,Residential Street,Dusk,55
+40.568847,-73.702325,New York,NY,2024-12-06,23:56:38,Major,34.9,Clear,2.7,Highway,Dusk,51
+40.836353,-73.787097,New York,NY,2024-05-25,12:08:38,Major,17.7,Clear,4.8,Intersection,Daylight,44
+40.820661,-74.08486,New York,NY,2024-11-24,15:51:39,Fatal,33.5,Snow,9.9,Intersection,Daylight,45
+40.534309,-73.771043,New York,NY,2024-02-04,11:02:39,Minor,-4.8,Snow,3.8,Highway,Dawn,58
+40.832894,-73.825587,New York,NY,2024-07-10,17:24:30,Major,32.3,Clear,0.8,Intersection,Night,69
+40.574444,-73.787183,New York,NY,2024-01-22,06:18:38,Fatal,33.0,Snow,3.2,Urban Road,Dawn,37
+40.876694,-73.949527,New York,NY,2024-09-11,17:00:55,Minor,15.0,Snow,7.3,Urban Road,Daylight,55
+40.88399,-73.83569,New York,NY,2024-12-12,04:00:02,Major,-2.5,Clear,0.2,Residential Street,Dusk,31
+40.856308,-73.707192,New York,NY,2024-10-14,17:19:07,Minor,22.0,Rain,8.6,Residential Street,Dawn,60
+40.899801,-73.912512,New York,NY,2024-04-14,02:41:19,Fatal,1.8,Fog,9.4,Highway,Dusk,34
+40.737674,-74.121919,New York,NY,2024-12-26,10:57:06,Fatal,21.7,Cloudy,4.5,Urban Road,Dusk,44
+40.614635,-74.188934,New York,NY,2024-05-19,19:30:38,Minor,19.5,Snow,6.8,Intersection,Night,37
+40.79307,-74.011359,New York,NY,2024-11-17,09:47:39,Minor,34.8,Clear,1.4,Highway,Dawn,32
+40.669903,-73.966274,New York,NY,2024-05-23,03:42:45,Minor,5.3,Snow,9.1,Urban Road,Night,44
+40.792525,-73.999781,New York,NY,2024-08-30,13:23:55,Major,-1.6,Rain,4.4,Highway,Dusk,36
+40.860993,-73.951885,New York,NY,2024-06-24,18:51:08,Fatal,19.3,Clear,0.9,Urban Road,Dusk,47
+40.540054,-73.964701,New York,NY,2024-04-08,08:40:22,Minor,22.9,Fog,5.5,Urban Road,Dusk,46
+40.684294,-74.096161,New York,NY,2024-04-21,05:24:15,Major,-1.3,Cloudy,1.6,Residential Street,Dawn,34
+40.745243,-73.861675,New York,NY,2024-11-25,11:51:41,Minor,21.8,Cloudy,6.9,Intersection,Dawn,51
+40.701132,-73.944835,New York,NY,2024-10-22,22:40:34,Minor,23.1,Cloudy,2.0,Intersection,Dawn,42
+40.508225,-73.913076,New York,NY,2024-03-04,22:01:02,Fatal,22.6,Clear,4.0,Urban Road,Dawn,70
+40.718395,-73.947138,New York,NY,2024-11-12,00:21:51,Minor,16.8,Rain,0.3,Urban Road,Night,37
+40.558671,-73.998704,New York,NY,2024-10-01,18:28:01,Fatal,13.1,Cloudy,6.6,Intersection,Dawn,66
+40.711635,-73.996733,New York,NY,2024-05-08,17:13:10,Fatal,7.5,Rain,7.8,Urban Road,Dusk,68
+40.717171,-74.052978,New York,NY,2024-11-29,15:18:36,Fatal,15.5,Cloudy,7.7,Highway,Daylight,44
+40.511403,-73.797339,New York,NY,2024-02-28,17:31:40,Fatal,28.8,Rain,5.7,Residential Street,Dawn,65
+40.630608,-74.042186,New York,NY,2024-02-06,14:26:58,Minor,25.9,Cloudy,7.0,Highway,Dusk,55
+40.609257,-73.955049,New York,NY,2024-10-02,05:22:39,Fatal,21.5,Snow,3.3,Intersection,Dawn,31
+40.657474,-73.850509,New York,NY,2024-01-19,23:50:58,Major,28.3,Snow,8.4,Residential Street,Daylight,55
+40.850653,-73.818024,New York,NY,2024-01-28,10:42:14,Minor,33.6,Snow,8.3,Urban Road,Night,47
+40.574973,-74.130102,New York,NY,2024-03-03,07:44:06,Minor,33.5,Rain,0.0,Residential Street,Dawn,68
+40.593401,-73.935886,New York,NY,2024-05-24,22:40:48,Minor,33.5,Rain,8.2,Highway,Dawn,47
+40.81659,-73.83731,New York,NY,2024-04-05,00:25:20,Major,24.9,Rain,7.7,Urban Road,Daylight,46
+40.732172,-73.732098,New York,NY,2024-05-10,13:43:30,Minor,26.5,Cloudy,9.5,Residential Street,Daylight,67
+40.505027,-74.062149,New York,NY,2024-08-03,10:37:20,Fatal,-3.3,Clear,8.5,Urban Road,Dusk,31
+40.613126,-73.842247,New York,NY,2024-05-21,04:33:56,Fatal,9.0,Cloudy,1.7,Urban Road,Dawn,37
+40.553643,-74.104138,New York,NY,2024-05-28,16:54:34,Fatal,-0.5,Clear,1.4,Urban Road,Dawn,47
+40.682943,-74.189749,New York,NY,2024-03-28,12:56:52,Minor,8.9,Fog,1.3,Urban Road,Daylight,31
+40.509052,-74.182333,New York,NY,2024-06-23,23:41:31,Fatal,10.5,Fog,6.1,Intersection,Dusk,61
+40.538228,-73.940156,New York,NY,2024-03-01,23:54:46,Minor,9.4,Clear,2.6,Intersection,Dusk,32
+40.769784,-74.071468,New York,NY,2024-02-22,21:32:03,Minor,-1.8,Snow,7.3,Urban Road,Dawn,52
+40.691445,-73.725485,New York,NY,2024-02-13,08:54:47,Minor,29.2,Clear,8.0,Urban Road,Dusk,66
+40.600744,-74.150845,New York,NY,2024-12-03,14:03:22,Fatal,-1.3,Fog,0.5,Residential Street,Dusk,43
+40.525737,-73.811094,New York,NY,2024-06-01,09:06:08,Minor,7.6,Cloudy,2.0,Residential Street,Night,70
+40.609627,-73.722177,New York,NY,2024-11-15,03:06:36,Major,-2.5,Fog,0.8,Residential Street,Dawn,46
+40.822186,-74.100498,New York,NY,2024-02-11,08:34:38,Major,-1.8,Rain,2.1,Highway,Daylight,44
+40.796458,-74.144301,New York,NY,2024-06-11,14:20:20,Major,9.1,Fog,8.8,Residential Street,Dawn,47
+40.659977,-73.728099,New York,NY,2024-08-29,00:21:54,Major,25.9,Cloudy,1.1,Urban Road,Dusk,56
+40.641862,-73.98685,New York,NY,2024-12-27,12:57:17,Minor,9.8,Fog,2.2,Intersection,Dawn,61
+40.534064,-74.099399,New York,NY,2024-05-12,21:47:30,Major,31.1,Snow,9.1,Highway,Daylight,55
+40.663147,-74.129092,New York,NY,2024-04-21,17:58:07,Fatal,3.0,Clear,3.3,Residential Street,Dawn,40
+40.589381,-73.898968,New York,NY,2024-05-26,09:29:55,Minor,-4.9,Snow,9.0,Highway,Daylight,53
+40.662229,-74.045099,New York,NY,2024-03-12,04:57:39,Fatal,2.7,Cloudy,7.9,Highway,Daylight,55
+40.727668,-74.042346,New York,NY,2024-10-29,20:09:19,Major,28.9,Fog,7.6,Highway,Night,55
+40.501518,-73.818164,New York,NY,2024-08-05,02:02:01,Fatal,13.6,Snow,3.4,Intersection,Daylight,35
+40.889405,-74.01689,New York,NY,2024-03-22,07:33:07,Fatal,18.7,Snow,9.3,Urban Road,Dusk,41
+40.761192,-73.81856,New York,NY,2024-12-21,20:17:09,Major,12.2,Rain,5.1,Intersection,Dusk,46
+40.841047,-73.736184,New York,NY,2024-02-04,18:41:33,Fatal,23.6,Cloudy,3.3,Urban Road,Daylight,53
+40.647586,-74.025658,New York,NY,2024-11-25,07:02:11,Minor,9.9,Rain,5.1,Residential Street,Dusk,61
+40.679921,-73.749291,New York,NY,2024-10-30,18:17:18,Minor,0.5,Rain,6.3,Urban Road,Dawn,41
+40.709841,-73.786097,New York,NY,2024-04-27,23:15:24,Fatal,33.8,Clear,1.8,Urban Road,Daylight,52
+40.774483,-73.97567,New York,NY,2024-12-04,02:41:22,Minor,-3.8,Fog,9.9,Highway,Daylight,55
+40.772046,-74.173187,New York,NY,2024-07-30,21:12:02,Major,33.2,Fog,3.2,Highway,Night,49
+40.817608,-73.851465,New York,NY,2024-04-10,20:54:31,Fatal,1.6,Clear,8.4,Intersection,Dawn,36
+40.798379,-73.986721,New York,NY,2024-03-28,07:09:04,Minor,17.9,Fog,8.2,Urban Road,Daylight,62
+40.807375,-74.111798,New York,NY,2024-06-20,16:49:50,Minor,32.9,Snow,2.5,Residential Street,Dusk,35
+40.55682,-73.876857,New York,NY,2024-09-05,09:15:06,Major,32.5,Snow,4.4,Intersection,Night,69
+40.544834,-74.024431,New York,NY,2024-09-30,02:14:01,Minor,29.9,Clear,7.3,Intersection,Night,56
+40.540502,-74.109759,New York,NY,2024-02-24,08:54:53,Major,8.7,Fog,0.1,Urban Road,Dawn,62
+40.842279,-74.147325,New York,NY,2024-12-01,03:12:18,Fatal,34.0,Clear,5.6,Urban Road,Dusk,61
+40.873604,-73.863213,New York,NY,2024-11-16,09:19:41,Minor,5.0,Clear,6.8,Residential Street,Daylight,65
+40.705834,-74.113613,New York,NY,2024-09-07,21:25:15,Minor,7.9,Fog,5.2,Highway,Daylight,58
+40.662602,-73.980178,New York,NY,2024-01-05,01:01:41,Minor,2.2,Rain,1.3,Intersection,Dusk,31
+40.648394,-73.895657,New York,NY,2024-08-06,16:08:25,Fatal,9.5,Clear,7.9,Intersection,Night,49
+40.826422,-73.896445,New York,NY,2024-03-05,02:27:37,Minor,4.2,Clear,3.2,Residential Street,Night,56
+40.87516,-74.04168,New York,NY,2024-10-10,09:39:50,Minor,34.4,Fog,7.4,Urban Road,Daylight,56
+40.785469,-74.093733,New York,NY,2024-04-28,18:53:27,Minor,34.4,Snow,6.6,Urban Road,Dusk,33
+40.502935,-74.185313,New York,NY,2024-10-12,03:47:26,Major,31.2,Rain,3.4,Residential Street,Night,66
+40.528418,-73.74665,New York,NY,2024-09-28,18:10:49,Major,34.8,Snow,9.4,Intersection,Night,38
+40.70576,-73.98106,New York,NY,2024-06-17,18:05:23,Fatal,12.2,Rain,6.7,Highway,Dusk,41
+40.639252,-73.74609,New York,NY,2024-09-21,13:35:54,Fatal,33.7,Cloudy,5.7,Urban Road,Daylight,63
+40.684676,-73.832261,New York,NY,2024-06-01,04:19:21,Fatal,12.6,Clear,8.8,Residential Street,Daylight,53
+40.894389,-74.174327,New York,NY,2024-12-20,00:34:00,Minor,23.9,Fog,2.6,Urban Road,Dawn,67
+40.530709,-73.834032,New York,NY,2024-03-18,06:47:57,Major,26.7,Snow,0.6,Urban Road,Dawn,31
+40.692127,-73.796852,New York,NY,2024-01-31,04:25:58,Minor,22.8,Clear,3.5,Highway,Night,52
+40.606169,-74.195388,New York,NY,2024-08-26,21:44:30,Fatal,25.0,Clear,2.7,Highway,Dusk,61
+40.696588,-73.884573,New York,NY,2024-04-11,22:08:47,Major,14.8,Rain,4.7,Residential Street,Night,46
+40.602868,-73.729982,New York,NY,2024-07-01,16:57:13,Minor,-3.1,Clear,7.5,Residential Street,Dawn,57
+40.805591,-74.13147,New York,NY,2024-08-24,11:41:22,Fatal,3.2,Rain,1.1,Urban Road,Night,62
+40.621897,-73.851223,New York,NY,2024-07-26,06:13:30,Minor,-4.3,Snow,5.2,Highway,Dusk,31
+40.855109,-73.758973,New York,NY,2024-04-13,22:49:22,Major,29.4,Clear,0.6,Residential Street,Dusk,37
+40.583363,-73.948448,New York,NY,2024-10-27,00:55:13,Minor,27.9,Cloudy,7.5,Highway,Dawn,30
+40.630664,-73.773568,New York,NY,2024-11-02,04:50:20,Minor,29.8,Fog,5.7,Highway,Night,62
+40.786253,-73.796013,New York,NY,2024-03-12,08:16:41,Minor,15.4,Cloudy,4.1,Urban Road,Daylight,48
+40.827764,-73.882063,New York,NY,2024-06-07,01:28:30,Minor,10.6,Clear,8.1,Highway,Daylight,44
+40.762501,-74.166372,New York,NY,2024-12-19,07:08:45,Fatal,28.2,Fog,2.3,Residential Street,Night,48
+40.703108,-73.927313,New York,NY,2024-10-31,06:53:07,Fatal,9.7,Clear,0.1,Intersection,Night,59
+40.566175,-74.160485,New York,NY,2024-02-15,14:24:44,Minor,-2.4,Rain,4.4,Intersection,Night,49
+40.640319,-74.120638,New York,NY,2024-07-13,02:26:31,Fatal,25.3,Clear,0.4,Highway,Dusk,46
+40.515439,-73.946628,New York,NY,2024-03-27,20:45:29,Fatal,13.4,Snow,1.7,Intersection,Dusk,56
+40.895567,-74.145913,New York,NY,2024-12-05,12:27:47,Minor,2.7,Clear,1.2,Intersection,Dusk,43
+40.722823,-73.903138,New York,NY,2024-10-16,08:47:08,Minor,-2.4,Clear,5.6,Highway,Dusk,36
+40.815382,-73.979555,New York,NY,2024-08-10,03:15:38,Minor,7.7,Cloudy,9.6,Highway,Dawn,39
+40.59195,-73.883447,New York,NY,2024-10-18,10:47:38,Minor,5.3,Clear,1.6,Intersection,Dawn,42
+40.673412,-74.086171,New York,NY,2024-06-18,23:16:42,Fatal,17.0,Cloudy,6.6,Residential Street,Dusk,39
+40.761325,-73.941,New York,NY,2024-07-30,05:47:16,Fatal,0.1,Cloudy,9.1,Intersection,Dusk,68
+40.576812,-73.739964,New York,NY,2024-01-06,21:11:09,Major,2.8,Fog,3.4,Urban Road,Daylight,55
+40.81902,-73.75856,New York,NY,2024-05-21,21:47:05,Major,5.8,Rain,0.7,Highway,Night,40
+40.579862,-73.759457,New York,NY,2024-11-19,03:33:18,Minor,34.3,Snow,4.3,Intersection,Dawn,49
+40.786187,-73.999868,New York,NY,2024-04-24,10:45:06,Fatal,14.0,Cloudy,3.6,Urban Road,Night,57
+40.71616,-74.142097,New York,NY,2024-10-14,18:55:08,Minor,8.9,Snow,2.0,Residential Street,Night,69
+40.639553,-73.949243,New York,NY,2024-05-23,23:05:40,Fatal,7.5,Snow,3.9,Intersection,Dusk,48
+40.53952,-73.838067,New York,NY,2024-05-25,08:43:00,Major,25.2,Rain,7.1,Highway,Night,49
+40.640085,-74.1496,New York,NY,2024-09-21,11:55:51,Minor,13.9,Rain,2.0,Urban Road,Dawn,64
+40.76341,-73.988652,New York,NY,2024-03-11,05:28:26,Minor,14.2,Rain,5.2,Residential Street,Dusk,54
+40.748051,-73.938011,New York,NY,2024-06-28,15:51:57,Major,20.5,Rain,6.8,Intersection,Dusk,37
+40.794112,-73.915967,New York,NY,2024-01-25,09:59:26,Minor,14.9,Snow,2.4,Urban Road,Dawn,42
+40.77753,-73.903697,New York,NY,2024-09-20,22:34:53,Fatal,17.3,Cloudy,8.2,Highway,Night,49
+40.852511,-73.903189,New York,NY,2024-01-19,10:50:41,Fatal,-3.9,Snow,2.1,Highway,Dusk,50
+40.771875,-74.177244,New York,NY,2024-11-13,23:58:57,Major,29.8,Rain,0.7,Intersection,Dusk,61
+40.677259,-73.956725,New York,NY,2024-09-22,09:40:35,Minor,6.1,Clear,3.7,Intersection,Dusk,39
+40.693367,-73.992931,New York,NY,2024-10-31,08:30:12,Fatal,17.6,Snow,7.2,Urban Road,Night,51
+40.56934,-73.800719,New York,NY,2024-11-09,22:03:14,Minor,33.2,Fog,8.6,Urban Road,Dawn,63
+40.752996,-73.789013,New York,NY,2024-01-21,00:37:10,Minor,3.3,Rain,6.4,Highway,Dawn,36
+40.748461,-73.946904,New York,NY,2024-03-29,23:50:58,Major,9.3,Rain,4.3,Intersection,Daylight,52
+40.872723,-73.750027,New York,NY,2024-04-03,19:26:59,Major,28.9,Clear,8.8,Intersection,Daylight,48
+40.791639,-74.034231,New York,NY,2024-07-01,23:13:00,Minor,0.6,Rain,1.2,Intersection,Night,55
+40.538438,-74.10435,New York,NY,2024-04-03,02:39:43,Minor,11.7,Fog,4.3,Highway,Night,69
+40.548909,-74.151462,New York,NY,2024-09-19,02:16:20,Major,23.5,Cloudy,6.7,Residential Street,Night,58
+40.744782,-73.909602,New York,NY,2024-02-16,03:44:02,Major,13.8,Rain,0.7,Intersection,Night,42
+40.856814,-73.842619,New York,NY,2024-12-11,17:47:09,Minor,25.5,Snow,9.5,Highway,Daylight,46
+40.64003,-74.095971,New York,NY,2024-04-01,05:31:24,Minor,25.1,Cloudy,8.9,Highway,Night,53
+40.821378,-73.946386,New York,NY,2024-08-14,08:36:01,Fatal,29.1,Fog,1.3,Residential Street,Dusk,59
+40.776422,-73.936194,New York,NY,2024-05-01,02:38:21,Major,30.7,Fog,6.0,Highway,Night,50
+40.787325,-73.950636,New York,NY,2024-12-04,16:46:59,Fatal,33.1,Fog,6.4,Highway,Night,43
+40.810235,-74.065131,New York,NY,2024-07-27,09:23:29,Major,13.8,Snow,2.9,Highway,Dawn,53
+40.533613,-73.916594,New York,NY,2024-06-16,10:51:42,Minor,8.4,Rain,6.3,Intersection,Daylight,55
+40.618295,-73.818186,New York,NY,2024-03-04,15:45:12,Fatal,9.0,Fog,4.4,Highway,Night,30
+40.893997,-74.176773,New York,NY,2024-11-28,14:39:27,Major,18.8,Clear,7.0,Urban Road,Dusk,38
+40.644866,-74.105965,New York,NY,2024-01-22,17:28:55,Major,30.2,Snow,9.4,Intersection,Daylight,47
+40.613224,-73.849226,New York,NY,2024-11-07,17:26:01,Fatal,30.1,Cloudy,9.2,Highway,Daylight,51
+40.674547,-73.756027,New York,NY,2024-09-19,22:07:52,Major,14.9,Clear,9.8,Intersection,Dawn,30
+40.718344,-74.0177,New York,NY,2024-05-05,16:56:55,Minor,19.3,Fog,3.8,Residential Street,Dusk,65
+40.526821,-73.947359,New York,NY,2024-07-04,08:13:09,Minor,14.0,Snow,9.5,Residential Street,Dusk,70
+40.84419,-74.112461,New York,NY,2024-03-25,07:41:07,Minor,2.3,Clear,5.4,Highway,Night,37
+40.714534,-73.881919,New York,NY,2024-07-17,04:18:42,Major,20.4,Rain,4.9,Residential Street,Dawn,61
+40.713289,-74.095436,New York,NY,2024-05-05,03:31:52,Fatal,13.0,Snow,8.5,Highway,Night,51
+40.540931,-73.893373,New York,NY,2024-02-21,01:09:51,Minor,9.5,Rain,1.6,Urban Road,Dusk,40
+40.776253,-73.708045,New York,NY,2024-09-22,04:52:48,Fatal,-0.4,Fog,3.9,Urban Road,Daylight,35
+40.618081,-74.185526,New York,NY,2024-03-20,04:43:44,Minor,14.4,Rain,4.5,Urban Road,Dawn,34
+40.624375,-73.707875,New York,NY,2024-05-15,08:04:51,Fatal,28.6,Cloudy,8.7,Intersection,Dusk,52
+40.657293,-73.921563,New York,NY,2024-06-28,02:56:42,Minor,19.9,Fog,7.1,Highway,Dawn,31
+40.542886,-73.842111,New York,NY,2024-04-06,08:44:14,Fatal,-4.4,Clear,3.8,Urban Road,Daylight,48
+40.578788,-73.726654,New York,NY,2024-10-01,22:36:32,Minor,-2.1,Fog,1.2,Urban Road,Dusk,66
+40.818488,-74.136461,New York,NY,2024-10-09,12:38:24,Fatal,20.3,Cloudy,8.5,Highway,Dawn,50
+40.503913,-74.095552,New York,NY,2024-09-30,21:41:01,Fatal,27.9,Cloudy,9.4,Highway,Daylight,41
+40.598198,-74.134015,New York,NY,2024-08-10,05:08:51,Minor,28.3,Rain,4.7,Urban Road,Dusk,57
+40.576858,-73.945713,New York,NY,2024-06-20,20:48:25,Minor,10.2,Snow,5.2,Intersection,Night,60
+40.612643,-73.831083,New York,NY,2024-12-17,05:01:55,Minor,10.4,Cloudy,4.4,Residential Street,Daylight,37
+40.87436,-73.759431,New York,NY,2024-10-08,15:10:10,Fatal,29.6,Cloudy,2.0,Highway,Dusk,58
+40.844181,-74.046238,New York,NY,2024-11-02,07:14:39,Fatal,7.7,Fog,4.6,Intersection,Dusk,31
+40.758407,-73.721732,New York,NY,2024-04-13,10:01:41,Minor,24.1,Rain,1.5,Highway,Dawn,62
+40.791791,-74.06494,New York,NY,2024-11-20,21:51:21,Fatal,34.0,Rain,9.4,Urban Road,Night,60
+40.863452,-73.769961,New York,NY,2024-06-11,07:55:47,Major,-3.7,Cloudy,4.7,Urban Road,Night,42
+40.714414,-74.064451,New York,NY,2024-11-12,15:40:31,Fatal,25.0,Clear,3.7,Residential Street,Daylight,33
+40.648468,-73.896438,New York,NY,2024-10-20,17:41:47,Fatal,27.4,Snow,5.4,Intersection,Dusk,59
+40.711895,-74.046236,New York,NY,2024-05-24,20:23:55,Fatal,10.7,Snow,2.1,Urban Road,Daylight,70
+40.895359,-73.974543,New York,NY,2024-06-07,08:14:57,Minor,0.1,Rain,3.5,Highway,Dusk,55
+40.784741,-74.195309,New York,NY,2024-04-19,19:26:33,Major,3.7,Cloudy,2.1,Residential Street,Night,60
+40.532248,-74.069929,New York,NY,2024-04-17,01:07:03,Minor,10.6,Cloudy,5.2,Intersection,Dusk,47
+40.88554,-73.768786,New York,NY,2024-09-12,11:12:28,Minor,6.5,Cloudy,3.1,Intersection,Night,50
+40.750364,-73.851917,New York,NY,2024-05-07,16:38:47,Minor,32.2,Clear,9.3,Intersection,Dusk,32
+40.724341,-73.769156,New York,NY,2024-08-31,19:45:47,Fatal,27.0,Fog,8.4,Urban Road,Dusk,43
+40.807656,-73.880015,New York,NY,2024-07-02,20:34:10,Minor,14.3,Rain,3.6,Residential Street,Dawn,36
+40.835622,-73.986391,New York,NY,2024-04-24,09:44:16,Major,22.0,Rain,1.2,Intersection,Dawn,70
+40.795375,-73.993907,New York,NY,2024-11-23,03:05:14,Fatal,22.5,Clear,5.0,Highway,Daylight,59
+40.508061,-74.018508,New York,NY,2024-09-16,10:16:31,Major,33.5,Snow,9.3,Residential Street,Night,41
+40.860678,-73.829707,New York,NY,2024-05-10,08:04:37,Fatal,29.8,Clear,6.0,Urban Road,Night,41
+40.891346,-73.796849,New York,NY,2024-04-09,13:22:34,Fatal,15.7,Clear,2.0,Urban Road,Dawn,69
+40.89428,-73.925921,New York,NY,2024-12-13,20:05:11,Minor,11.3,Cloudy,2.6,Residential Street,Night,54
+40.747297,-73.910737,New York,NY,2024-11-09,17:56:32,Minor,34.7,Cloudy,3.5,Intersection,Daylight,51
+40.684522,-74.10167,New York,NY,2024-01-02,07:29:32,Minor,21.7,Clear,9.7,Urban Road,Dawn,68
+40.53913,-73.961168,New York,NY,2024-05-14,21:13:57,Fatal,7.6,Clear,6.7,Intersection,Night,59
+40.87738,-74.135596,New York,NY,2024-11-02,11:26:32,Minor,11.6,Fog,4.0,Residential Street,Dawn,55
+40.716676,-73.937532,New York,NY,2024-05-10,06:34:50,Fatal,16.0,Cloudy,6.0,Intersection,Night,63
+40.574538,-74.031255,New York,NY,2024-06-09,06:10:25,Major,33.8,Clear,5.6,Residential Street,Night,51
+40.542142,-73.708007,New York,NY,2024-06-09,03:51:17,Fatal,1.4,Cloudy,0.2,Intersection,Daylight,53
+40.553833,-73.893605,New York,NY,2024-10-14,22:09:53,Minor,21.9,Snow,8.9,Intersection,Daylight,62
+40.6444,-73.896122,New York,NY,2024-08-28,00:46:37,Major,3.7,Clear,9.1,Residential Street,Dusk,61
+40.704042,-73.923215,New York,NY,2024-08-22,01:57:25,Minor,10.3,Clear,6.3,Highway,Night,49
+40.883005,-73.930902,New York,NY,2024-10-07,05:04:18,Fatal,6.6,Rain,9.6,Residential Street,Daylight,69
+40.605929,-74.06836,New York,NY,2024-01-21,08:54:40,Minor,7.0,Snow,0.7,Intersection,Daylight,53
+40.774182,-74.010013,New York,NY,2024-08-24,00:37:12,Fatal,-0.5,Clear,1.3,Residential Street,Dawn,39
+40.710988,-73.964163,New York,NY,2024-12-18,22:34:00,Minor,-0.6,Cloudy,2.6,Highway,Dusk,62
+40.607142,-73.763312,New York,NY,2024-10-30,16:30:02,Major,14.3,Rain,2.1,Highway,Dawn,61
+40.51953,-74.176539,New York,NY,2024-10-24,02:03:02,Major,3.7,Snow,4.5,Residential Street,Dusk,41
+40.538784,-73.718435,New York,NY,2024-12-03,12:12:47,Major,18.0,Fog,9.6,Highway,Dusk,63
+40.579476,-74.007483,New York,NY,2024-12-06,13:10:17,Fatal,27.0,Snow,1.7,Highway,Dawn,58
+40.741529,-74.190775,New York,NY,2024-10-18,17:08:58,Minor,-1.9,Fog,6.1,Highway,Dawn,60
+40.787934,-73.729822,New York,NY,2024-02-05,21:45:18,Minor,6.4,Cloudy,9.7,Residential Street,Dusk,39
+40.530781,-73.852165,New York,NY,2024-09-04,01:49:26,Minor,4.3,Rain,6.6,Intersection,Dawn,58
+40.790899,-73.915088,New York,NY,2024-06-04,16:54:33,Fatal,1.0,Cloudy,4.2,Urban Road,Daylight,49
+40.577905,-73.70132,New York,NY,2024-11-11,23:04:43,Minor,9.3,Fog,1.9,Highway,Dusk,67
+40.773053,-74.172614,New York,NY,2024-09-12,05:28:20,Fatal,2.4,Snow,5.3,Intersection,Night,63
+40.745393,-74.081752,New York,NY,2024-10-02,23:10:06,Minor,27.4,Snow,7.0,Residential Street,Daylight,69
+40.778259,-73.817348,New York,NY,2024-12-31,01:59:48,Minor,-1.1,Rain,2.1,Highway,Dawn,54
+40.60471,-74.175767,New York,NY,2024-10-03,01:56:18,Major,1.2,Rain,8.6,Urban Road,Dusk,69
+40.836916,-73.872337,New York,NY,2024-07-21,20:59:35,Fatal,28.7,Clear,9.3,Urban Road,Daylight,39
+40.89035,-74.052073,New York,NY,2024-09-22,02:47:38,Minor,25.6,Snow,7.1,Residential Street,Daylight,32
+40.679421,-73.978998,New York,NY,2024-11-30,04:37:08,Fatal,17.9,Clear,0.1,Urban Road,Dawn,32
+40.850645,-74.160459,New York,NY,2024-12-02,03:00:42,Major,16.8,Fog,2.4,Intersection,Dawn,47
+40.551481,-74.00592,New York,NY,2024-10-18,04:25:15,Minor,6.4,Fog,6.1,Highway,Dusk,56
+40.515022,-73.796429,New York,NY,2024-01-30,20:42:18,Minor,2.6,Cloudy,0.9,Residential Street,Daylight,60
+40.695705,-73.843676,New York,NY,2024-11-18,07:04:34,Minor,7.7,Fog,1.4,Highway,Dusk,56
+40.886508,-74.025784,New York,NY,2024-01-24,23:01:42,Minor,31.0,Rain,8.4,Highway,Night,60
+40.672107,-73.852287,New York,NY,2024-12-04,02:47:12,Minor,14.0,Fog,1.1,Highway,Daylight,59
+40.883434,-74.102731,New York,NY,2024-11-03,09:49:11,Fatal,28.2,Cloudy,9.4,Highway,Dawn,33
+40.531735,-73.987526,New York,NY,2024-10-31,10:26:27,Major,2.0,Fog,3.6,Residential Street,Dusk,30
+40.869599,-73.93089,New York,NY,2024-08-08,05:53:49,Fatal,2.8,Cloudy,1.8,Highway,Daylight,66
+40.559679,-73.79663,New York,NY,2024-12-25,21:46:12,Major,-2.5,Clear,1.4,Intersection,Night,38
+40.647134,-74.046057,New York,NY,2024-03-18,05:39:12,Minor,8.1,Clear,8.7,Residential Street,Dawn,39
+40.537393,-73.94451,New York,NY,2024-09-01,11:51:33,Fatal,15.3,Clear,6.5,Intersection,Dawn,33
+40.777348,-73.754464,New York,NY,2024-10-09,09:48:56,Fatal,13.8,Snow,2.9,Urban Road,Daylight,70
+40.589474,-73.712263,New York,NY,2024-10-20,19:03:37,Major,33.4,Clear,0.6,Intersection,Night,70
+40.871931,-73.746989,New York,NY,2024-06-09,18:31:58,Fatal,-4.1,Rain,9.7,Highway,Dawn,68
+40.787269,-73.915115,New York,NY,2024-07-03,06:55:27,Fatal,4.0,Rain,5.8,Residential Street,Dawn,51
+40.651943,-73.701349,New York,NY,2024-08-04,21:40:31,Fatal,11.7,Rain,5.3,Intersection,Daylight,51
+40.593974,-73.817617,New York,NY,2024-05-07,20:26:34,Major,-1.7,Snow,1.9,Intersection,Daylight,47
+40.678273,-74.143923,New York,NY,2024-03-08,16:11:51,Fatal,14.9,Snow,2.2,Residential Street,Dawn,34
+40.561864,-74.030296,New York,NY,2024-07-16,02:09:07,Fatal,27.3,Rain,8.4,Urban Road,Dawn,31
+40.737956,-73.993568,New York,NY,2024-05-23,05:21:37,Fatal,31.0,Snow,8.1,Highway,Night,70
+40.610662,-73.751487,New York,NY,2024-02-22,06:40:09,Major,1.4,Rain,0.9,Residential Street,Dusk,39
+40.721893,-73.780145,New York,NY,2024-10-03,00:44:36,Minor,28.0,Fog,3.0,Urban Road,Dusk,32
+40.675586,-74.060232,New York,NY,2024-02-25,15:42:40,Fatal,21.0,Cloudy,4.3,Residential Street,Daylight,45
+40.552882,-73.804696,New York,NY,2024-08-12,00:20:28,Major,6.2,Rain,2.2,Highway,Night,61
+40.687293,-73.731087,New York,NY,2024-12-22,17:56:41,Major,2.7,Clear,8.2,Highway,Daylight,69
+40.594313,-73.866979,New York,NY,2024-04-06,02:25:44,Fatal,34.3,Snow,6.9,Highway,Dawn,70
+40.671556,-73.737735,New York,NY,2024-05-05,18:21:35,Minor,29.0,Rain,8.2,Highway,Dawn,56
+40.574316,-73.980603,New York,NY,2024-08-23,09:58:30,Major,27.0,Fog,2.3,Highway,Dusk,44
+40.705237,-74.131615,New York,NY,2024-08-24,19:45:42,Fatal,-0.9,Cloudy,9.4,Highway,Daylight,47
+40.850335,-74.053238,New York,NY,2024-01-01,02:13:21,Major,22.5,Cloudy,4.2,Residential Street,Night,45
+40.567481,-73.745067,New York,NY,2024-02-05,19:42:53,Fatal,34.2,Fog,0.6,Residential Street,Dusk,33
+40.713717,-73.894491,New York,NY,2024-11-26,13:54:51,Fatal,24.8,Cloudy,2.2,Intersection,Dusk,37
+40.845504,-74.176817,New York,NY,2024-02-22,07:07:05,Minor,-2.6,Snow,2.8,Residential Street,Dawn,40
+40.842944,-74.18679,New York,NY,2024-12-20,20:48:04,Fatal,19.9,Clear,9.9,Urban Road,Night,66
+40.777282,-74.197962,New York,NY,2024-06-28,19:08:58,Fatal,33.7,Rain,7.4,Highway,Dawn,62
+40.522606,-73.736313,New York,NY,2024-11-03,10:38:22,Fatal,17.9,Clear,1.5,Urban Road,Dawn,57
+40.561825,-73.980654,New York,NY,2024-04-27,23:28:50,Major,35.0,Cloudy,8.7,Urban Road,Daylight,66
+40.538188,-74.1968,New York,NY,2024-12-14,21:02:39,Fatal,27.6,Fog,0.4,Highway,Dusk,35
+40.724029,-73.941694,New York,NY,2024-01-24,15:58:04,Minor,9.5,Cloudy,1.5,Residential Street,Daylight,55
+40.624865,-73.960542,New York,NY,2024-04-03,12:02:51,Fatal,14.0,Cloudy,2.2,Residential Street,Night,52
+40.682322,-73.748262,New York,NY,2024-11-13,12:05:46,Minor,-1.6,Cloudy,3.1,Residential Street,Dusk,56
+40.776834,-73.836387,New York,NY,2024-01-26,17:18:51,Minor,-1.9,Snow,2.7,Residential Street,Night,32
+40.536074,-73.979441,New York,NY,2024-07-13,21:14:21,Major,18.3,Cloudy,7.2,Intersection,Night,45
+40.633985,-73.929395,New York,NY,2024-12-23,13:23:47,Minor,33.7,Snow,6.6,Urban Road,Dawn,49
+40.671369,-74.10589,New York,NY,2024-01-04,17:06:59,Major,31.7,Clear,6.7,Residential Street,Daylight,35
+40.664309,-74.176724,New York,NY,2024-08-29,20:57:06,Minor,30.9,Cloudy,1.8,Intersection,Dawn,66
+40.578204,-73.721218,New York,NY,2024-10-16,01:02:56,Major,4.9,Fog,8.2,Intersection,Dusk,50
+40.837358,-73.945376,New York,NY,2024-11-19,02:39:09,Major,28.1,Snow,9.2,Urban Road,Dawn,42
+40.753378,-73.917019,New York,NY,2024-03-31,02:55:50,Major,3.9,Cloudy,9.4,Residential Street,Dusk,46
+40.519472,-73.84914,New York,NY,2024-01-29,11:52:55,Minor,-1.5,Rain,5.3,Highway,Night,52
+40.794895,-73.780186,New York,NY,2024-08-21,15:36:55,Minor,18.0,Snow,1.3,Residential Street,Dawn,46
+40.625478,-73.893357,New York,NY,2024-08-14,00:58:14,Fatal,-0.9,Rain,8.6,Residential Street,Night,60
+40.641645,-73.726173,New York,NY,2024-02-02,02:52:32,Major,29.7,Cloudy,3.6,Highway,Daylight,60
+40.716995,-74.05308,New York,NY,2024-07-04,02:33:40,Fatal,9.1,Clear,7.4,Intersection,Night,44
+40.793382,-73.92465,New York,NY,2024-01-20,23:33:26,Fatal,8.4,Clear,3.7,Highway,Night,60
+40.631287,-73.919798,New York,NY,2024-10-31,05:38:44,Minor,6.3,Snow,7.3,Intersection,Dawn,41
+40.896537,-73.840288,New York,NY,2024-12-22,23:37:57,Fatal,33.0,Fog,0.9,Intersection,Dusk,57
+40.758643,-73.927594,New York,NY,2024-11-07,20:06:53,Minor,-4.6,Cloudy,1.0,Residential Street,Daylight,51
+40.868257,-73.757192,New York,NY,2024-05-02,16:55:59,Major,13.9,Cloudy,2.2,Intersection,Night,48
+40.611157,-73.753299,New York,NY,2024-02-28,18:41:08,Major,22.7,Snow,1.1,Intersection,Dusk,47
+40.691987,-73.993765,New York,NY,2024-04-26,05:34:59,Fatal,34.6,Clear,1.0,Highway,Daylight,53
+40.646746,-74.083658,New York,NY,2024-07-15,17:12:24,Major,-0.1,Fog,1.1,Residential Street,Dusk,30
+40.669799,-74.005618,New York,NY,2024-10-23,00:36:14,Major,-2.5,Snow,4.9,Highway,Daylight,49
+40.713147,-73.989521,New York,NY,2024-08-01,09:41:47,Major,15.3,Fog,3.0,Urban Road,Dawn,45
+40.620457,-73.785646,New York,NY,2024-01-18,04:33:07,Major,34.0,Snow,4.3,Residential Street,Dawn,45
+40.659952,-73.785069,New York,NY,2024-07-29,01:30:26,Major,18.2,Rain,7.4,Intersection,Daylight,58
+40.616832,-74.062932,New York,NY,2024-03-27,23:10:32,Fatal,12.2,Cloudy,1.9,Highway,Night,40
+40.552479,-74.036781,New York,NY,2024-01-20,20:08:57,Major,1.4,Cloudy,9.9,Residential Street,Daylight,38
+40.727479,-74.02057,New York,NY,2024-09-09,08:05:21,Minor,-0.5,Snow,2.2,Highway,Dawn,46
